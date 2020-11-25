@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "438492710084",
+    "firebase_url": "https://app-definitiva-32811.firebaseio.com",
+    "project_id": "app-definitiva-32811",
+    "storage_bucket": "app-definitiva-32811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438492710084:android:26948790f752a115e4f591",
+        "android_client_info": {
+          "package_name": "com.SrCarrillo.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438492710084-prm2autb2pljadme5k41cn6iuoesvlgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYUG0Be_BzbB1UyiDZBPTeQ8jcWbpbwag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438492710084-prm2autb2pljadme5k41cn6iuoesvlgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438492710084:android:1960d913e022ac98e4f591",
+        "android_client_info": {
+          "package_name": "com.example.appdefinifiva1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438492710084-prm2autb2pljadme5k41cn6iuoesvlgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYUG0Be_BzbB1UyiDZBPTeQ8jcWbpbwag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438492710084-prm2autb2pljadme5k41cn6iuoesvlgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438492710084:android:28e6989b030f8efae4f591",
+        "android_client_info": {
+          "package_name": "com.srcarrillo.ministerio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438492710084-prm2autb2pljadme5k41cn6iuoesvlgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYUG0Be_BzbB1UyiDZBPTeQ8jcWbpbwag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438492710084-prm2autb2pljadme5k41cn6iuoesvlgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
