@@ -11,13 +11,16 @@
         android:id="@+id/btnRegistrar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="@color/boton_semitransparente"
         android:text="Registrarme"
         android:textAlignment="center"
+        app:iconTint="@color/boton_semitransparente"
         app:layout_constraintBottom_toTopOf="@+id/btnIniciarSesion"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/txtContrasena" />
+        app:layout_constraintTop_toBottomOf="@+id/txtContrasena"
+        app:rippleColor="@color/boton_semitransparente" />
 
     <EditText
         android:id="@+id/txtContrasena"
@@ -64,11 +67,13 @@
         android:id="@+id/btnIniciarSesion"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="@color/boton_semitransparente"
         android:text="Iniciar Sesion"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btnRegistrar" />
+        app:layout_constraintTop_toBottomOf="@+id/btnRegistrar"
+        app:rippleColor="@color/boton_semitransparente" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

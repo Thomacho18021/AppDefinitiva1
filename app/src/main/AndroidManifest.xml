@@ -3,6 +3,7 @@
     package="com.SrCarrillo.myapplication">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
 
     <application
         android:allowBackup="true"
@@ -11,7 +12,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppDefinitiva1">
-        <activity android:name=".MenuActivity"></activity>
+        <activity android:name=".RadioActivity"></activity>
+        <activity android:name=".MenuActivity" />
         <activity android:name=".RegistrateActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>

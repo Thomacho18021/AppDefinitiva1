@@ -35,12 +35,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     //Declarar objeto FirebaseAuth
     private FirebaseAuth firebaseAuth;
     FirebaseAuth.AuthStateListener mAuthStateListener;
-    List<AuthUI.IdpConfig> provider = Arrays.asList(
+    /*List<AuthUI.IdpConfig> provider = Arrays.asList(
             new AuthUI.IdpConfig.FacebookBuilder().build(),
             new AuthUI.IdpConfig.GoogleBuilder().build(),
             new AuthUI.IdpConfig.EmailBuilder().build(),
             new AuthUI.IdpConfig.PhoneBuilder().build()
-    );
+    );*/
 
 
     @Override
@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         setContentView(R.layout.activity_main);
 
         firebaseAuth = FirebaseAuth.getInstance();
-        mAuthStateListener = new FirebaseAuth.AuthStateListener() {
+        /*mAuthStateListener = new FirebaseAuth.AuthStateListener() {
             @Override
             public void onAuthStateChanged(@NonNull FirebaseAuth firebaseAuth) {
                 FirebaseUser  user = firebaseAuth.getCurrentUser();
@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
                 }
             }
-        };
+        };*/
 
         txtEmail = findViewById(R.id.txtEmail);
         txtContrasena = findViewById(R.id.txtContrasena);
@@ -78,17 +78,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         btnIniciarSesion.setOnClickListener(this);
     }
 
-    @Override
-    protected void onResume() {
-        super.onResume();
-        firebaseAuth.addAuthStateListener(mAuthStateListener);
-    }
-
-    @Override
-    protected void onPause() {
-        super.onPause();
-        firebaseAuth.addAuthStateListener(mAuthStateListener);
-    }
 
     private void RegistrarUsuario() {
         String email = txtEmail.getText().toString().trim();
@@ -149,7 +138,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     int pos = email.indexOf("@");
                     String user = email.substring(0,pos);
                     Toast.makeText(MainActivity.this, "Bienvenido ", Toast.LENGTH_LONG).show();
-                    Intent intent = new Intent(getApplication(),RegistrateActivity.class);
+                    Intent intent = new Intent(getApplication(),MenuActivity.class);
                     intent.putExtra(RegistrateActivity.usuario,user);
                     startActivity(intent);
                 } else {

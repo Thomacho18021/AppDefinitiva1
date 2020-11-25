@@ -35,13 +35,7 @@ public class RegistrateActivity extends AppCompatActivity implements View.OnClic
 
     }
     public void cerrarSesion(){
-        AuthUI.getInstance().signOut(this).addOnCompleteListener(new OnCompleteListener<Void>() {
-            @Override
-            public void onComplete(@NonNull Task<Void> task) {
-                Toast.makeText(RegistrateActivity.this,"Sesion Cerrada", Toast.LENGTH_SHORT).show();
-                finish();
-            }
-        });
+
     }
 
 
