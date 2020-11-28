@@ -34,23 +34,11 @@
                 app:layout_constraintTop_toTopOf="parent" />
 
             <ImageButton
-                android:id="@+id/btnYtMPA"
-                android:layout_width="300dp"
-                android:layout_height="130dp"
-                app:layout_constraintBottom_toTopOf="@+id/btnIgMPA"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.5"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/btnWsMPA"
-                app:layout_constraintVertical_bias="0.0"
-                app:srcCompat="@drawable/common_google_signin_btn_text_light" />
-
-            <ImageButton
                 android:id="@+id/btnFbCCS"
                 android:layout_width="300dp"
                 android:layout_height="130dp"
                 android:background="@drawable/fbccs"
-                app:layout_constraintBottom_toTopOf="@+id/btnWsMPA"
+                app:layout_constraintBottom_toTopOf="@+id/btnIgMPA"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.5"
                 app:layout_constraintStart_toStartOf="parent"
@@ -60,34 +48,45 @@
                 android:id="@+id/btnIgMPA"
                 android:layout_width="300dp"
                 android:layout_height="130dp"
+                android:background="@drawable/igmpa"
                 app:layout_constraintBottom_toTopOf="@+id/btnIgCCS"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.5"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/btnYtMPA"
-                app:srcCompat="@drawable/common_google_signin_btn_text_light" />
+                app:layout_constraintTop_toBottomOf="@+id/btnFbCCS" />
 
             <ImageButton
                 android:id="@+id/btnIgCCS"
                 android:layout_width="300dp"
                 android:layout_height="130dp"
-                app:layout_constraintBottom_toBottomOf="parent"
+                android:background="@drawable/igccs"
+                app:layout_constraintBottom_toTopOf="@+id/btnYtMPA"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.5"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/btnIgMPA"
-                app:srcCompat="@drawable/common_google_signin_btn_text_light" />
+                app:layout_constraintTop_toBottomOf="@+id/btnIgMPA" />
+
+            <ImageButton
+                android:id="@+id/btnYtMPA"
+                android:layout_width="300dp"
+                android:layout_height="130dp"
+                android:background="@drawable/ytmpa"
+                app:layout_constraintBottom_toTopOf="@+id/btnWsMPA"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/btnIgCCS" />
 
             <ImageButton
                 android:id="@+id/btnWsMPA"
                 android:layout_width="300dp"
                 android:layout_height="130dp"
-                app:layout_constraintBottom_toTopOf="@+id/btnYtMPA"
+                android:background="@drawable/wsmpa"
+                app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.5"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/btnFbCCS"
-                app:srcCompat="@drawable/common_google_signin_btn_text_light" />
+                app:layout_constraintTop_toBottomOf="@+id/btnYtMPA" />
         </androidx.constraintlayout.widget.ConstraintLayout>
     </ScrollView>
 
