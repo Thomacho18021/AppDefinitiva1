@@ -12,7 +12,7 @@
         android:id="@+id/imgPlayPause"
         android:layout_width="157dp"
         android:layout_height="144dp"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/btnTempo"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
@@ -26,6 +26,29 @@
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toTopOf="@+id/imgPlayPause"
         app:layout_constraintEnd_toEndOf="@+id/imgPlayPause"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="@+id/imgPlayPause"
+        app:layout_constraintTop_toBottomOf="@+id/imgPlayPause" />
+
+    <Button
+        android:id="@+id/btnAlarma"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="alarma"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/btnTempo"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgPlayPause" />
+
+    <Button
+        android:id="@+id/btnTempo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="temporizador"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/btnAlarma"
         app:layout_constraintTop_toBottomOf="@+id/imgPlayPause" />
 </androidx.constraintlayout.widget.ConstraintLayout>

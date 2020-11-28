@@ -9,7 +9,7 @@ import android.widget.ImageButton;
 
 public class MenuActivity extends AppCompatActivity implements View.OnClickListener {
 
-    private ImageButton btnRadio, btn2, btn3, btn4, btn5 ,btn6;
+    private ImageButton btnRadio, btn2, btn3, btn4, btnRRSS ,btnValoranos;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -20,15 +20,15 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
         btn2 = findViewById(R.id.btn2);
         btn3 = findViewById(R.id.btn3);
         btn4 = findViewById(R.id.btn4);
-        btn5 = findViewById(R.id.btn5);
-        btn6 = findViewById(R.id.btn6);
+        btnRRSS = findViewById(R.id.btnRRSS);
+        btnValoranos = findViewById(R.id.btnValoranos);
 
         btnRadio.setOnClickListener(this);
         btn2.setOnClickListener(this);
         btn3.setOnClickListener(this);
         btn4.setOnClickListener(this);
-        btn5.setOnClickListener(this);
-        btn6.setOnClickListener(this);
+        btnRRSS.setOnClickListener(this);
+        btnValoranos.setOnClickListener(this);
 
     }
     private void ir_a(Class c){
@@ -45,8 +45,12 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.btn2:
             case R.id.btn3:
             case R.id.btn4:
-            case R.id.btn5:
-            case R.id.btn6:
+            case R.id.btnRRSS:
+                ir_a(RedesActivity.class);
+                break;
+            case R.id.btnValoranos:
+                ir_a(ValoranosActivity.class);
+                break;
         }
     }
 }
