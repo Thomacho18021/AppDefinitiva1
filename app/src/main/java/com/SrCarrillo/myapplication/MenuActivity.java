@@ -99,6 +99,8 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.btn2:
             case R.id.btn3:
             case R.id.btnVersiculos:
+                ir_a(ImgVersiculosActivity.class);
+                break;
             case R.id.btnRRSS:
                 ir_a(RedesActivity.class);
                 break;
