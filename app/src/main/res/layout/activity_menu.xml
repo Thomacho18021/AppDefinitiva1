@@ -11,6 +11,7 @@
         android:id="@+id/btnRadio"
         android:layout_width="165dp"
         android:layout_height="165dp"
+        android:background="@drawable/btnradio"
         app:layout_constraintBottom_toTopOf="@+id/btn3"
         app:layout_constraintEnd_toStartOf="@+id/btn2"
         app:layout_constraintHorizontal_bias="0.5"
@@ -22,6 +23,7 @@
         android:id="@+id/btn2"
         android:layout_width="165dp"
         android:layout_height="165dp"
+        android:background="@drawable/btnbiblia"
         app:layout_constraintBottom_toTopOf="@+id/btn4"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
@@ -55,6 +57,7 @@
         android:id="@+id/btnRRSS"
         android:layout_width="165dp"
         android:layout_height="165dp"
+        android:background="@drawable/btnrrss"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/btnValoranos"
         app:layout_constraintHorizontal_bias="0.5"
@@ -72,4 +75,5 @@
         app:layout_constraintStart_toEndOf="@+id/btnRRSS"
         app:layout_constraintTop_toBottomOf="@+id/btn4"
         app:srcCompat="@android:drawable/divider_horizontal_dim_dark" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
