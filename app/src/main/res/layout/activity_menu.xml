@@ -24,7 +24,7 @@
         android:layout_width="165dp"
         android:layout_height="165dp"
         android:background="@drawable/btnbiblia"
-        app:layout_constraintBottom_toTopOf="@+id/btn4"
+        app:layout_constraintBottom_toTopOf="@+id/btnVersiculos"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/btnRadio"
@@ -36,14 +36,14 @@
         android:layout_width="165dp"
         android:layout_height="165dp"
         app:layout_constraintBottom_toTopOf="@+id/btnRRSS"
-        app:layout_constraintEnd_toStartOf="@+id/btn4"
+        app:layout_constraintEnd_toStartOf="@+id/btnVersiculos"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnRadio"
         app:srcCompat="@android:drawable/divider_horizontal_dim_dark" />
 
     <ImageButton
-        android:id="@+id/btn4"
+        android:id="@+id/btnVersiculos"
         android:layout_width="165dp"
         android:layout_height="165dp"
         app:layout_constraintBottom_toTopOf="@+id/btnValoranos"
@@ -73,7 +73,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/btnRRSS"
-        app:layout_constraintTop_toBottomOf="@+id/btn4"
+        app:layout_constraintTop_toBottomOf="@+id/btnVersiculos"
         app:srcCompat="@android:drawable/divider_horizontal_dim_dark" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

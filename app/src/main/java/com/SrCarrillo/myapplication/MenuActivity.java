@@ -5,13 +5,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.text.Layout;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageButton;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.firebase.auth.FirebaseAuth;
@@ -19,7 +17,7 @@ import com.google.firebase.auth.FirebaseUser;
 
 public class MenuActivity extends AppCompatActivity implements View.OnClickListener {
 
-    private ImageButton btnRadio, btn2, btn3, btn4, btnRRSS ,btnValoranos;
+    private ImageButton btnRadio, btn2, btn3, btnVersiculos, btnRRSS ,btnValoranos;
     private String titulo;
     private String password;
 
@@ -46,14 +44,14 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
         btnRadio = findViewById(R.id.btnRadio);
         btn2 = findViewById(R.id.btn2);
         btn3 = findViewById(R.id.btn3);
-        btn4 = findViewById(R.id.btn4);
+        btnVersiculos = findViewById(R.id.btnVersiculos);
         btnRRSS = findViewById(R.id.btnRRSS);
         btnValoranos = findViewById(R.id.btnValoranos);
 
         btnRadio.setOnClickListener(this);
         btn2.setOnClickListener(this);
         btn3.setOnClickListener(this);
-        btn4.setOnClickListener(this);
+        btnVersiculos.setOnClickListener(this);
         btnRRSS.setOnClickListener(this);
         btnValoranos.setOnClickListener(this);
 
@@ -100,7 +98,7 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
                 break;
             case R.id.btn2:
             case R.id.btn3:
-            case R.id.btn4:
+            case R.id.btnVersiculos:
             case R.id.btnRRSS:
                 ir_a(RedesActivity.class);
                 break;
