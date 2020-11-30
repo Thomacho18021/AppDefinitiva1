@@ -13,18 +13,18 @@
         android:layout_height="165dp"
         android:background="@drawable/btnradio"
         app:layout_constraintBottom_toTopOf="@+id/btn3"
-        app:layout_constraintEnd_toStartOf="@+id/btn2"
+        app:layout_constraintEnd_toStartOf="@+id/btnBiblia"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@android:drawable/divider_horizontal_dim_dark" />
 
     <ImageButton
-        android:id="@+id/btn2"
+        android:id="@+id/btnBiblia"
         android:layout_width="165dp"
         android:layout_height="165dp"
         android:background="@drawable/btnbiblia"
-        app:layout_constraintBottom_toTopOf="@+id/btnVersiculos"
+        app:layout_constraintBottom_toTopOf="@+id/btnImagenes"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/btnRadio"
@@ -36,21 +36,22 @@
         android:layout_width="165dp"
         android:layout_height="165dp"
         app:layout_constraintBottom_toTopOf="@+id/btnRRSS"
-        app:layout_constraintEnd_toStartOf="@+id/btnVersiculos"
+        app:layout_constraintEnd_toStartOf="@+id/btnImagenes"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnRadio"
         app:srcCompat="@android:drawable/divider_horizontal_dim_dark" />
 
     <ImageButton
-        android:id="@+id/btnVersiculos"
+        android:id="@+id/btnImagenes"
         android:layout_width="165dp"
         android:layout_height="165dp"
+        android:background="@drawable/btnimagenes"
         app:layout_constraintBottom_toTopOf="@+id/btnValoranos"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/btn3"
-        app:layout_constraintTop_toBottomOf="@+id/btn2"
+        app:layout_constraintTop_toBottomOf="@+id/btnBiblia"
         app:srcCompat="@android:drawable/divider_horizontal_dim_dark" />
 
     <ImageButton
@@ -69,11 +70,12 @@
         android:id="@+id/btnValoranos"
         android:layout_width="165dp"
         android:layout_height="165dp"
+        android:background="@drawable/btnvaloranos"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/btnRRSS"
-        app:layout_constraintTop_toBottomOf="@+id/btnVersiculos"
+        app:layout_constraintTop_toBottomOf="@+id/btnImagenes"
         app:srcCompat="@android:drawable/divider_horizontal_dim_dark" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

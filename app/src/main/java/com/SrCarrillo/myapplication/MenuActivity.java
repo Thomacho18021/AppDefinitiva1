@@ -17,7 +17,7 @@ import com.google.firebase.auth.FirebaseUser;
 
 public class MenuActivity extends AppCompatActivity implements View.OnClickListener {
 
-    private ImageButton btnRadio, btn2, btn3, btnVersiculos, btnRRSS ,btnValoranos;
+    private ImageButton btnRadio, btnBiblia, btn3, btnImagenes, btnRRSS ,btnValoranos;
     private String titulo;
     private String password;
 
@@ -42,16 +42,16 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
 
 
         btnRadio = findViewById(R.id.btnRadio);
-        btn2 = findViewById(R.id.btn2);
+        btnBiblia = findViewById(R.id.btnBiblia);
         btn3 = findViewById(R.id.btn3);
-        btnVersiculos = findViewById(R.id.btnVersiculos);
+        btnImagenes = findViewById(R.id.btnImagenes);
         btnRRSS = findViewById(R.id.btnRRSS);
         btnValoranos = findViewById(R.id.btnValoranos);
 
         btnRadio.setOnClickListener(this);
-        btn2.setOnClickListener(this);
+        btnBiblia.setOnClickListener(this);
         btn3.setOnClickListener(this);
-        btnVersiculos.setOnClickListener(this);
+        btnImagenes.setOnClickListener(this);
         btnRRSS.setOnClickListener(this);
         btnValoranos.setOnClickListener(this);
 
@@ -96,9 +96,9 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.btnRadio:
                 ir_a(RadioActivity.class);
                 break;
-            case R.id.btn2:
+            case R.id.btnBiblia:
             case R.id.btn3:
-            case R.id.btnVersiculos:
+            case R.id.btnImagenes:
                 ir_a(ImgVersiculosActivity.class);
                 break;
             case R.id.btnRRSS:

@@ -24,6 +24,7 @@ public class ImgVersiculosActivity extends AppCompatActivity {
 
     private RecyclerView recyclerView;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -32,15 +33,16 @@ public class ImgVersiculosActivity extends AppCompatActivity {
         getSupportActionBar().setCustomView(R.layout.abs_layout);
 
 
-        ProgressBar progressBar = findViewById(R.id.progressBar);
+        ProgressBar progressBar = findViewById(R.id.imgProgress);
         ArrayList<String> imageList = new ArrayList<>();
         recyclerView = findViewById(R.id.recyclerView);
         ImageAdapter adapter = new ImageAdapter(imageList, this);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
 
-        StorageReference storageReference = FirebaseStorage.getInstance().getReference().child("versiculosimg");
 
-        storageReference.listAll().addOnSuccessListener(new OnSuccessListener<ListResult>() {
+        StorageReference storageReference = FirebaseStorage.getInstance().getReference().child("versiculosimg");
+        progressBar.setVisibility(View.VISIBLE);
+        storageReference.listAll().addOnSuccessListener( new OnSuccessListener<ListResult>() {
             @Override
             public void onSuccess(ListResult listResult) {
                 for (StorageReference fileRef : listResult.getItems()) {
@@ -49,12 +51,15 @@ public class ImgVersiculosActivity extends AppCompatActivity {
                         public void onSuccess(Uri uri) {
                             imageList.add(uri.toString());
                             Log.d("item", uri.toString());
-                            progressBar.setVisibility(View.GONE);
+
                         }
                     }).addOnSuccessListener(new OnSuccessListener<Uri>() {
                         @Override
                         public void onSuccess(Uri uri) {
                             recyclerView.setAdapter(adapter);
+                            progressBar.setVisibility(View.GONE);
+
+
                         }
                     });
                 }
