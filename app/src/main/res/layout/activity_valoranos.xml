@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/menubg"
     tools:context=".ValoranosActivity">
 
     <EditText
@@ -37,6 +38,7 @@
         android:text="Comentario :"
         android:textColor="#000000"
         android:textSize="18sp"
+        android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/textView2"
         app:layout_constraintEnd_toStartOf="@+id/txtComentario"
         app:layout_constraintHorizontal_bias="0.5"
@@ -49,6 +51,7 @@
         android:layout_height="wrap_content"
         android:text="¿Cuánto te gustó nuestra App ?"
         android:textColor="#000000"
+        android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/ratingBar"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
@@ -62,6 +65,7 @@
         android:text="Nombre : "
         android:textColor="#000000"
         android:textSize="18sp"
+        android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/comentario"
         app:layout_constraintEnd_toStartOf="@+id/txtNombre"
         app:layout_constraintHorizontal_bias="0.5"
@@ -75,6 +79,7 @@
         android:text="Amado hermano, Muchas Gracias por descargar nuestra aplicación. Te invitamos a escribirnos tu opinión acerca de esta y ayudarnos a mejorar nuestra app para tu total comidad."
         android:textAlignment="center"
         android:textColor="#000000"
+        android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/txtNombre"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
