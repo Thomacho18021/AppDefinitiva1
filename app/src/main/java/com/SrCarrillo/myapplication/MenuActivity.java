@@ -21,7 +21,7 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
     private String titulo;
     private String password;
 
-    FirebaseAuth mAuth;
+    //FirebaseAuth mAuth;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -36,8 +36,8 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
 
 
 
-        mAuth = FirebaseAuth.getInstance();
-        FirebaseUser user = mAuth.getCurrentUser();
+        //mAuth = FirebaseAuth.getInstance();
+        //FirebaseUser user = mAuth.getCurrentUser();
 
 
 
@@ -59,7 +59,7 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
 
 
         Bundle data = this.getIntent().getExtras();
-        password = data.getString("password");
+        //password = data.getString("password");
         Toast.makeText(this,"Bienvenido", Toast.LENGTH_LONG).show();
 
 
@@ -75,7 +75,7 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
         // Handle presses on the action bar items
         switch (item.getItemId()) {
             case R.id.ABCerrarSesion:
-                mAuth.signOut();
+                //mAuth.signOut();
                 ir_a(MainActivity.class);
                 return true;
             case R.id.ABSalir:

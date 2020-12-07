@@ -23,6 +23,11 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
 
 import java.util.Arrays;
 import java.util.List;
@@ -35,12 +40,15 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private TextView txtOlvContra, txtRegistrate;
     private ProgressDialog progressDialog;
 
+    FirebaseDatabase database;
+    DatabaseReference reference;
+
 
 
     //Declarar objeto FirebaseAuth
-    private FirebaseAuth firebaseAuth;
+    /*private FirebaseAuth firebaseAuth;
     FirebaseAuth.AuthStateListener mAuthStateListener;
-    /*List<AuthUI.IdpConfig> provider = Arrays.asList(
+    List<AuthUI.IdpConfig> provider = Arrays.asList(
             new AuthUI.IdpConfig.FacebookBuilder().build(),
             new AuthUI.IdpConfig.GoogleBuilder().build(),
             new AuthUI.IdpConfig.EmailBuilder().build(),
@@ -55,8 +63,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         getSupportActionBar().setDisplayOptions(ActionBar.DISPLAY_SHOW_CUSTOM);
         getSupportActionBar().setCustomView(R.layout.abs_layout);
 
-        firebaseAuth = FirebaseAuth.getInstance();
-        /*mAuthStateListener = new FirebaseAuth.AuthStateListener() {
+        database = FirebaseDatabase.getInstance();
+        reference = database.getReference();
+
+
+        /*firebaseAuth = FirebaseAuth.getInstance();
+        mAuthStateListener = new FirebaseAuth.AuthStateListener() {
             @Override
             public void onAuthStateChanged(@NonNull FirebaseAuth firebaseAuth) {
                 FirebaseUser  user = firebaseAuth.getCurrentUser();
@@ -87,8 +99,45 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         txtRegistrate.setOnClickListener(this);
         btnIniciarSesion.setOnClickListener(this);
     }
+    public void alerta(String m){
+        Toast.makeText(this,m,Toast.LENGTH_LONG).show();
+    }
+    public void inicioSesion(){
+        String email = txtEmail.getText().toString().trim();
+        String password = txtContrasena.getText().toString().trim();
+        reference.child("usuarios").addValueEventListener(new ValueEventListener() {
+            Usuario userObtenido;
+            boolean userExiste = false;
+            @Override
+            public void onDataChange(@NonNull DataSnapshot snapshot) {
+                for (DataSnapshot dataSnapshot: snapshot.getChildren()){
+                    userObtenido = dataSnapshot.getValue(Usuario.class);
+                    if (userObtenido.getEmail().equals(email)){
+                        userExiste = true;
+                        if(userObtenido.getPassword().equals(password)){
+                            alerta("Sesion Iniciada Correctamente");
+                            ir_a(MenuActivity.class);
+                        }else{
+                            txtContrasena.setError("Contraseña Incorrecta");
 
-    @Override
+                        }
+                    }
+                }
+                if(userExiste == false){
+                    alerta("Email No registrado");
+                }
+            }
+
+            @Override
+            public void onCancelled(@NonNull DatabaseError error) {
+
+            }
+        });
+
+        alerta("Iniciando Sesion...");
+    }
+
+    /*@Override
     protected void onStart() {
         FirebaseUser user = firebaseAuth.getCurrentUser();
         if(user != null){
@@ -100,7 +149,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             startActivity(i);
         }
         super.onStart();
-    }
+    }*/
 
  /*private void RegistrarUsuario() {
         String email = txtEmail.getText().toString().trim();
@@ -138,7 +187,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     }*/
 
-    private void LoginUsuario() {
+   /* private void LoginUsuario() {
         String email = txtEmail.getText().toString().trim();
         String contrasena = txtContrasena.getText().toString().trim();
 
@@ -183,10 +232,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
             }
         });
-    }
+    }*/
     private void showError(EditText input, String s){
         input.setError(s);
         input.requestFocus();
+    }
+    private void ir_a(Class c){
+        Intent i = new Intent(MainActivity.this,c);
+        startActivity(i);
     }
 
 
@@ -194,11 +247,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View v) {
         switch (v.getId()) {
             case R.id.txtRegistrate:
-                Intent i = new Intent(MainActivity.this,RegistrateActivity.class);
-                startActivity(i);
+                ir_a(RegistrateActivity.class);
                 break;
             case R.id.btnIniciarSesion:
-                LoginUsuario();
+                inicioSesion();
                 break;
         }
     }
