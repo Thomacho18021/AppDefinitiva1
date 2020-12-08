@@ -224,41 +224,11 @@
     <string name="segundaCronicas36">       </string>
 
 
-    <string name="nehemias1">               </string>
-    <string name="nehemias2">               </string>
-    <string name="nehemias3">               </string>
-    <string name="nehemias4">               </string>
-    <string name="nehemias5">               </string>
-    <string name="nehemias6">               </string>
-    <string name="nehemias7">               </string>
-    <string name="nehemias8">               </string>
-    <string name="nehemias9">               </string>
-    <string name="nehemias10">              </string>
-    <string name="nehemias11">              </string>
-    <string name="nehemias12">              </string>
-    <string name="nehemias13">              </string>
 
-    <string name="esdras1">                 </string>
-    <string name="esdras2">                 </string>
-    <string name="esdras3">                 </string>
-    <string name="esdras4">                 </string>
-    <string name="esdras5">                 </string>
-    <string name="esdras6">                 </string>
-    <string name="esdras7">                 </string>
-    <string name="esdras8">                 </string>
-    <string name="esdras9">                 </string>
-    <string name="esdras10">                </string>
 
-    <string name="ester1">                  </string>
-    <string name="ester2">                  </string>
-    <string name="ester3">                  </string>
-    <string name="ester4">                  </string>
-    <string name="ester5">                  </string>
-    <string name="ester6">                  </string>
-    <string name="ester7">                  </string>
-    <string name="ester8">                  </string>
-    <string name="ester9">                  </string>
-    <string name="ester10">                 </string>
+
+
+
 
     <string name="job1">                    </string>
     <string name="job2">                    </string>
@@ -486,18 +456,7 @@
     <string name="proverbios30">            </string>
     <string name="proverbios31">            </string>
 
-    <string name="eclesiastes1">            </string>
-    <string name="eclesiastes2">            </string>
-    <string name="eclesiastes3">            </string>
-    <string name="eclesiastes4">            </string>
-    <string name="eclesiastes5">            </string>
-    <string name="eclesiastes6">            </string>
-    <string name="eclesiastes7">            </string>
-    <string name="eclesiastes8">            </string>
-    <string name="eclesiastes9">            </string>
-    <string name="eclesiastes10">           </string>
-    <string name="eclesiastes11">           </string>
-    <string name="eclesiastes12">           </string>
+
 
 
 
@@ -672,33 +631,6 @@
     <string name="ezequiel47">              </string>
     <string name="ezequiel48">              </string>
 
-    <string name="daniel1">                 </string>
-    <string name="daniel2">                 </string>
-    <string name="daniel3">                 </string>
-    <string name="daniel4">                 </string>
-    <string name="daniel5">                 </string>
-    <string name="daniel6">                 </string>
-    <string name="daniel7">                 </string>
-    <string name="daniel8">                 </string>
-    <string name="daniel9">                 </string>
-    <string name="daniel10">                </string>
-    <string name="daniel11">                </string>
-    <string name="daniel12">                </string>
-
-    <string name="oseas1">                  </string>
-    <string name="oseas2">                  </string>
-    <string name="oseas3">                  </string>
-    <string name="oseas4">                  </string>
-    <string name="oseas5">                  </string>
-    <string name="oseas6">                  </string>
-    <string name="oseas7">                  </string>
-    <string name="oseas8">                  </string>
-    <string name="oseas9">                  </string>
-    <string name="oseas10">                 </string>
-    <string name="oseas11">                 </string>
-    <string name="oseas12">                 </string>
-    <string name="oseas13">                 </string>
-    <string name="oseas14">                 </string>
 
 
 
@@ -717,20 +649,10 @@
 
 
 
-    <string name="zacarias1">               </string>
-    <string name="zacarias2">               </string>
-    <string name="zacarias3">               </string>
-    <string name="zacarias4">               </string>
-    <string name="zacarias5">               </string>
-    <string name="zacarias6">               </string>
-    <string name="zacarias7">               </string>
-    <string name="zacarias8">               </string>
-    <string name="zacarias9">               </string>
-    <string name="zacarias10">              </string>
-    <string name="zacarias11">              </string>
-    <string name="zacarias12">              </string>
-    <string name="zacarias13">              </string>
-    <string name="zacarias14">              </string>
+
+
+
+
 
 
 
@@ -763,22 +685,7 @@
     <string name="mateo27">                 </string>
     <string name="mateo28">                 </string>
 
-    <string name="marcos1">                 </string>
-    <string name="marcos2">                 </string>
-    <string name="marcos3">                 </string>
-    <string name="marcos4">                 </string>
-    <string name="marcos5">                 </string>
-    <string name="marcos6">                 </string>
-    <string name="marcos7">                 </string>
-    <string name="marcos8">                 </string>
-    <string name="marcos9">                 </string>
-    <string name="marcos10">                </string>
-    <string name="marcos11">                </string>
-    <string name="marcos12">                </string>
-    <string name="marcos13">                </string>
-    <string name="marcos14">                </string>
-    <string name="marcos15">                </string>
-    <string name="marcos16">                </string>
+
 
     <string name="lucas1">                  </string>
     <string name="lucas2">                  </string>
@@ -890,19 +797,6 @@
     <string name="primeraCorintios15">      </string>
     <string name="primeraCorintios16">      </string>
 
-    <string name="segundaCorintios1">       </string>
-    <string name="segundaCorintios2">       </string>
-    <string name="segundaCorintios3">       </string>
-    <string name="segundaCorintios4">       </string>
-    <string name="segundaCorintios5">       </string>
-    <string name="segundaCorintios6">       </string>
-    <string name="segundaCorintios7">       </string>
-    <string name="segundaCorintios8">       </string>
-    <string name="segundaCorintios9">       </string>
-    <string name="segundaCorintios10">      </string>
-    <string name="segundaCorintios11">      </string>
-    <string name="segundaCorintios12">      </string>
-    <string name="segundaCorintios13">      </string>
 
 
 
@@ -923,19 +817,8 @@
 
 
 
-    <string name="hebreos1">                </string>
-    <string name="hebreos2">                </string>
-    <string name="hebreos3">                </string>
-    <string name="hebreos4">                </string>
-    <string name="hebreos5">                </string>
-    <string name="hebreos6">                </string>
-    <string name="hebreos7">                </string>
-    <string name="hebreos8">                </string>
-    <string name="hebreos9">                </string>
-    <string name="hebreos10">               </string>
-    <string name="hebreos11">               </string>
-    <string name="hebreos12">               </string>
-    <string name="hebreos13">               </string>
+
+
 
 
 

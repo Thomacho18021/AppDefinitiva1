@@ -45,7 +45,7 @@ public class BibliaActivity extends AppCompatActivity {
             @Override
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
                 String libro = parent.getSelectedItem().toString();
-                int[] libros = {R.array.Selecciona, R.array.genesis, R.array.exodo, R.array.levitico, R.array.numeros, R.array.deuteronomio, R.array.josue, R.array.jueces, R.array.rut, R.array.samuel1, R.array.samuel2, R.array.reyes1, R.array.reyes2, R.array.cronicas1, R.array.cronicas2, R.array.nehemias, R.array.esdras, R.array.ester, R.array.job, R.array.salmos, R.array.proverbios, R.array.eclesiastes, R.array.cantares, R.array.isaias, R.array.jeremias, R.array.lamentaciones, R.array.ezequiel, R.array.daniel, R.array.oseas, R.array.joel, R.array.amos, R.array.abdias, R.array.jonas, R.array.miqueas, R.array.nahum, R.array.habacuc, R.array.sofonias, R.array.hageo, R.array.zacarias, R.array.malaquias, R.array.mateo, R.array.marcos, R.array.lucas, R.array.juan, R.array.hechos, R.array.romanos, R.array.corintios1, R.array.corintios2, R.array.galatas, R.array.efesios, R.array.filipenses, R.array.colosenses, R.array.tesalonicenses1, R.array.tesalonicenses2, R.array.timoteo1, R.array.timoteo2, R.array.tito, R.array.filemon, R.array.hebreos, R.array.santiago, R.array.pedro1, R.array.pedro2, R.array.juan1, R.array.juan2, R.array.juan3, R.array.judas, R.array.apocalipsis};
+                int[] libros = {R.array.Selecciona, R.array.genesis, R.array.exodo, R.array.levitico, R.array.numeros, R.array.deuteronomio, R.array.josue, R.array.jueces, R.array.rut, R.array.samuel1, R.array.samuel2, R.array.reyes1, R.array.reyes2, R.array.cronicas1, R.array.cronicas2, R.array.esdras, R.array.nehemias, R.array.ester, R.array.job, R.array.salmos, R.array.proverbios, R.array.eclesiastes, R.array.cantares, R.array.isaias, R.array.jeremias, R.array.lamentaciones, R.array.ezequiel, R.array.daniel, R.array.oseas, R.array.joel, R.array.amos, R.array.abdias, R.array.jonas, R.array.miqueas, R.array.nahum, R.array.habacuc, R.array.sofonias, R.array.hageo, R.array.zacarias, R.array.malaquias, R.array.mateo, R.array.marcos, R.array.lucas, R.array.juan, R.array.hechos, R.array.romanos, R.array.corintios1, R.array.corintios2, R.array.galatas, R.array.efesios, R.array.filipenses, R.array.colosenses, R.array.tesalonicenses1, R.array.tesalonicenses2, R.array.timoteo1, R.array.timoteo2, R.array.tito, R.array.filemon, R.array.hebreos, R.array.santiago, R.array.pedro1, R.array.pedro2, R.array.juan1, R.array.juan2, R.array.juan3, R.array.judas, R.array.apocalipsis};
                 ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(
                         BibliaActivity.this, libros[position],
                         R.layout.spinner);
@@ -1399,6 +1399,45 @@ public class BibliaActivity extends AppCompatActivity {
                                 TextoBiblia.setText(styledText);
                                 ScrollBiblia.scrollTo(100, 0);
                                 break;
+                            case "Esdras":
+                                switch (capitulo) {
+                                    default:
+                                        Biblia = bienvenido;
+                                    case 1:
+                                        Biblia = getString(R.string.esdras1);
+                                        break;
+                                    case 2:
+                                        Biblia = getString(R.string.esdras2);
+                                        break;
+                                    case 3:
+                                        Biblia = getString(R.string.esdras3);
+                                        break;
+                                    case 4:
+                                        Biblia = getString(R.string.esdras4);
+                                        break;
+                                    case 5:
+                                        Biblia = getString(R.string.esdras5);
+                                        break;
+                                    case 6:
+                                        Biblia = getString(R.string.esdras6);
+                                        break;
+                                    case 7:
+                                        Biblia = getString(R.string.esdras7);
+                                        break;
+                                    case 8:
+                                        Biblia = getString(R.string.esdras8);
+                                        break;
+                                    case 9:
+                                        Biblia = getString(R.string.esdras9);
+                                        break;
+                                    case 10:
+                                        Biblia = getString(R.string.esdras10);
+                                        break;
+                                }
+                                styledText = Html.fromHtml(String.valueOf(Biblia), FROM_HTML_MODE_LEGACY);
+                                TextoBiblia.setText(styledText);
+                                ScrollBiblia.scrollTo(100, 0);
+                                break;
                             case "Nehemías":
                                 switch (capitulo) {
                                     default:
@@ -1441,45 +1480,6 @@ public class BibliaActivity extends AppCompatActivity {
                                         break;
                                     case 13:
                                         Biblia = getString(R.string.nehemias13);
-                                        break;
-                                }
-                                styledText = Html.fromHtml(String.valueOf(Biblia), FROM_HTML_MODE_LEGACY);
-                                TextoBiblia.setText(styledText);
-                                ScrollBiblia.scrollTo(100, 0);
-                                break;
-                            case "Esdras":
-                                switch (capitulo) {
-                                    default:
-                                        Biblia = bienvenido;
-                                    case 1:
-                                        Biblia = getString(R.string.esdras1);
-                                        break;
-                                    case 2:
-                                        Biblia = getString(R.string.esdras2);
-                                        break;
-                                    case 3:
-                                        Biblia = getString(R.string.esdras3);
-                                        break;
-                                    case 4:
-                                        Biblia = getString(R.string.esdras4);
-                                        break;
-                                    case 5:
-                                        Biblia = getString(R.string.esdras5);
-                                        break;
-                                    case 6:
-                                        Biblia = getString(R.string.esdras6);
-                                        break;
-                                    case 7:
-                                        Biblia = getString(R.string.esdras7);
-                                        break;
-                                    case 8:
-                                        Biblia = getString(R.string.esdras8);
-                                        break;
-                                    case 9:
-                                        Biblia = getString(R.string.esdras9);
-                                        break;
-                                    case 10:
-                                        Biblia = getString(R.string.esdras10);
                                         break;
                                 }
                                 styledText = Html.fromHtml(String.valueOf(Biblia), FROM_HTML_MODE_LEGACY);
