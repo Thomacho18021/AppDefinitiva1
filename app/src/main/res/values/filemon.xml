@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="filemon1">
+
+        &lt;big>&lt;b>Salutación&lt;/big>&lt;/b>&lt;br>
+        &lt;small>&lt;b>1&lt;/small>&lt;/b> Pablo, prisionero de Jesucristo, y el hermano Timoteo, al amado Filemón, colaborador nuestro,&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> y a la amada hermana Apia, y a Arquipo nuestro compañero de milicia, y a la iglesia que está en tu casa:&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo.&lt;br>
+
+        &lt;big>&lt;b>El amor y la fe de Filemón&lt;/big>&lt;/b>&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> Doy gracias a mi Dios, haciendo siempre memoria de tí en mis oraciones,&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> porque oigo del amor y de la fe que tienes hacia el Señor Jesús, y para con todos los santos;&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> para que la participación de tu fe sea eficaz en el conocimiento de todo el bien que está en vosotros por Cristo Jesús.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> Pues tenemos gran gozo y consolación en tu amor, porque por ti, oh hermano, han sido confortados los corazones de los santos.&lt;br>
+
+        &lt;big>&lt;b>Pablo intercede por Onésimo&lt;/big>&lt;/b>&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> Por lo cual, aunque tengo mucha libertad en Cristo para mandarte lo que conviene,&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> más bien te ruego por amor, siendo como soy, Pablo ya anciano, y ahora, además, prisionero de Jesucristo;&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> te ruego por mi hijo Onésimo, a quien engendré en mis prisiones,&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> el cual en otro tiempo te fue inútil, pero ahora a ti y a mí nos es útil,&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> el cual vuelvo a enviarte; tú, pues, recíbele como a mí mismo.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> Yo quisiera retenerle conmigo, para que en lugar tuyo me sirviese en mis prisiones por el evangelio;&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> pero nada quise hacer sin tu consentimiento, para que tu favor no fuese como de necesidad, sino voluntario&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> Porque quizás para esto se apartó de ti por algún tiempo, para que le recibieses para siempre;&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> no ya como esclavo, sino como más que esclavo, como hermano amado, mayormente para mí, pero cuánto más para ti, tanto en la carne como en el Señor.&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> Así que, si me tienes por compañero, recíbele como a mí mismo.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> Y si en algo te dañó, o te debe, ponlo a mi cuenta.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> Yo Pablo lo escribo de mi mano, yo lo pagaré; por no decirte que aun tú mismo te me debes también.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> Sí, hermano, tenga yo algún provecho de ti en el Señor; conforta mi corazón en el Señor.&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> Te he escrito confiando en tu obediencia, sabiendo que harás aun más de lo que te digo.&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> Prepárame también alojamiento; porque espero que por vuestras oraciones os seré concedido.&lt;br>
+
+        &lt;big>&lt;b>Salutaciones y bendición final&lt;/big>&lt;/b>&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> Te saludan Epafras, mi compañero de prisiones por Cristo Jesús,&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> Marcos, Aristarco, Demas y Lucas, mis colaboradores.&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> La gracia de nuestro Señor Jesucristo sea con vuestro espíritu.&lt;br>
+        Amén.&lt;br>
+
+    </string>
+
+
+</resources>

@@ -97,6 +97,7 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
                 ir_a(RadioActivity.class);
                 break;
             case R.id.btnBiblia:
+                ir_a(BibliaActivity.class);
             case R.id.btn3:
             case R.id.btnImagenes:
                 ir_a(ImgVersiculosActivity.class);

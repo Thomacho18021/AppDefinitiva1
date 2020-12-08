@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tito1">
+
+        &lt;big>&lt;b>Salutación&lt;/big>&lt;/b>&lt;br>
+        &lt;big>&lt;big>1&lt;/big>&lt;/big> Pablo, siervo de Dios y apóstol de Jesucristo, conforme a la fe de los escogidos de Dios y el conocimiento de la verdad que es según la piedad,&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> en la esperanza de la vida eterna, la cual Dios, que no miente, prometió desde antes del principio de los siglos,&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> y a su debido tiempo manifestó su palabra por medio de la predicación que me fue encomendada por mandato de Dios nuestro Salvador,&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> a Tito, verdadero hijo en la común fe: Gracia, misericordia y paz, de Dios Padre y del Señor Jesucristo nuestro Salvador.&lt;br>
+
+        &lt;big>&lt;b>Requisitos de ancianos y obispos&lt;/big>&lt;/b>&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> Por esta causa te dejé en Creta, para que corrigieses lo deficiente, y establecieses ancianos en cada ciudad, así como yo te mandé;&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> el que fuere irreprensible, marido de una sola mujer, y tenga hijos creyentes que no estén acusados de disolución ni de rebeldía.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> Porque es necesario que el obispo sea irreprensible, como administrador de Dios; no soberbio, no iracundo, no dado al vino, no pendenciero, no codicioso de ganancias deshonestas,&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> sino hospedador, amante de lo bueno, sobrio, justo, santo, dueño de sí mismo,&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> retenedor de la palabra fiel tal como ha sido enseñada, para que también pueda exhortar con sana enseñanza y convencer a los que contradicen.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> Porque hay aún muchos contumaces, habladores de vanidades y engañadores, mayormente los de la circuncisión,&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> a los cuales es preciso tapar la boca; que trastornan casas enteras, enseñando por ganancia deshonesta lo que no conviene.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> Uno de ellos, su propio profeta, dijo: Los cretenses, siempre mentirosos, malas bestias, glotones ociosos&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> Este testimonio es verdadero; por tanto, repréndelos duramente, para que sean sanos en la fe,&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> no atendiendo a fábulas judaicas, ni a mandamientos de hombres que se apartan de la verdad.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> Todas las cosas son puras para los puros, mas para los corrompidos e incrédulos nada les es puro; pues hasta su mente y su conciencia están corrompidas.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> Profesan conocer a Dios, pero con los hechos lo niegan, siendo abominables y rebeldes, reprobados en cuanto a toda buena obra.&lt;br>
+
+    </string>
+    <string name="tito2">
+
+        &lt;big>&lt;b>Enseñanza de la sana doctrina&lt;/big>&lt;/b>&lt;br>
+        &lt;big>&lt;big>2&lt;/big>&lt;/big> Pero tú habla lo que está de acuerdo con la sana doctrina.&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> Que los ancianos sean sobrios, serios, prudentes, sanos en la fe, en el amor, en la paciencia.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> Las ancianas asimismo sean reverentes en su porte; no calumniadoras, no esclavas del vino, maestras del bien;&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> que enseñen a las mujeres jóvenes a amar a sus maridos y a sus hijos,&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> a ser prudentes, castas, cuidadosas de su casa, buenas, sujetas a sus maridos, para que la palabra de Dios no sea blasfemada.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> Exhorta asimismo a los jóvenes a que sean prudentes;&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> presentándote tú en todo como ejemplo de buenas obras; en la enseñanza mostrando integridad, seriedad,&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> palabra sana e irreprochable, de modo que el adversario se avergüence, y no tenga nada malo que decir de vosotros.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> Exhorta a los siervos a que se sujeten a sus amos, que agraden en todo, que no sean respondones;&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> no defraudando, sino mostrándose fieles en todo, para que en todo adornen la doctrina de Dios nuestro Salvador.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> Porque la gracia de Dios se ha manifestado para salvación a todos los hombres,&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> enseñándonos que, renunciando a la impiedad y a los deseos mundanos, vivamos en este siglo sobria, justa y piadosamente,&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> aguardando la esperanza bienaventurada y la manifestación gloriosa de nuestro gran Dios y Salvador Jesucristo,&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> quien se dio a sí mismo por nosotros para redimirnos de toda iniquidad y purificar para sí un pueblo propio, celoso de buenas obras.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> Esto habla, y exhorta y reprende con toda autoridad. Nadie te menosprecie.&lt;br>
+
+    </string>
+    <string name="tito3">
+
+        &lt;big>&lt;b>Justificados por gracia&lt;/big>&lt;/b>&lt;br>
+        &lt;big>&lt;big>3&lt;/big>&lt;/big> Recuérdales que se sujeten a los gobernantes y autoridades, que obedezcan, que estén dispuestos a toda buena obra.&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> Que a nadie difamen, que no sean pendencieros, sino amables, mostrando toda mansedumbre para con todos los hombres.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> Porque nosotros también éramos en otro tiempo insensatos, rebeldes, extraviados, esclavos de concupiscencias y deleites diversos, viviendo en malicia y envidia, aborrecibles, y aborreciéndonos unos a otros.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> Pero cuando se manifestó la bondad de Dios nuestro Salvador, y su amor para con los hombres,&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> nos salvó, no por obras de justicia que nosotros hubiéramos hecho, sino por su misericordia, por el lavamiento de la regeneración y por la renovación en el Espíritu Santo,&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> el cual derramó en nosotros abundantemente por Jesucristo nuestro Salvador,&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> para que justificados por su gracia, viniésemos a ser herederos conforme a la esperanza de la vida eterna.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> Palabra fiel es esta, y en estas cosas quiero que insistas con firmeza, para que los que creen en Dios procuren ocuparse en buenas obras. Estas cosas son buenas y útiles a los hombres.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> Pero evita las cuestiones necias, y genealogías, y contenciones, y discusiones acerca de la ley; porque son vanas y sin provecho.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> Al hombre que cause divisiones, después de una y otra amonestación deséchalo,&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> sabiendo que el tal se ha pervertido, y peca y está condenado por su propio juicio.&lt;br>
+
+        &lt;big>&lt;b>Instrucciones personales&lt;/big>&lt;/b>&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> Cuando envíe a ti a Artemas o a Tíquico, apresúrate a venir a mí en Nicópolis, porque allí he determinado pasar el invierno.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> A Zenas intérprete de la ley, y a Apolos, encamínales con solicitud, de modo que nada les falte.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> Y aprendan también los nuestros a ocuparse en buenas obras para los casos de necesidad, para que no sean sin fruto.&lt;br>
+
+        &lt;big>&lt;b>Salutaciones y bendición final&lt;/big>&lt;/b>&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> Todos los que están conmigo te saludan. Saluda a los que nos aman en la fe. La gracia sea con todos vosotros.&lt;br>
+        Amén.&lt;br>
+
+    </string>
+
+</resources>
