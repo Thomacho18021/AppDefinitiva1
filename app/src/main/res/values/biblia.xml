@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-
     <string name="josue1">                  </string>
     <string name="josue2">                  </string>
     <string name="josue3">                  </string>
@@ -26,29 +25,6 @@
     <string name="josue22">                 </string>
     <string name="josue23">                 </string>
     <string name="josue24">                 </string>
-
-    <string name="jueces1">                 </string>
-    <string name="jueces2">                 </string>
-    <string name="jueces3">                 </string>
-    <string name="jueces4">                 </string>
-    <string name="jueces5">                 </string>
-    <string name="jueces6">                 </string>
-    <string name="jueces7">                 </string>
-    <string name="jueces8">                 </string>
-    <string name="jueces9">                 </string>
-    <string name="jueces10">                </string>
-    <string name="jueces11">                </string>
-    <string name="jueces12">                </string>
-    <string name="jueces13">                </string>
-    <string name="jueces14">                </string>
-    <string name="jueces15">                </string>
-    <string name="jueces16">                </string>
-    <string name="jueces17">                </string>
-    <string name="jueces18">                </string>
-    <string name="jueces19">                </string>
-    <string name="jueces20">                </string>
-    <string name="jueces21">                </string>
-
 
     <string name="primeraSamuel1">          </string>
     <string name="primeraSamuel2">          </string>
@@ -81,54 +57,6 @@
     <string name="primeraSamuel29">         </string>
     <string name="primeraSamuel30">         </string>
     <string name="primeraSamuel31">         </string>
-
-    <string name="segundaSamuel1">          </string>
-    <string name="segundaSamuel2">          </string>
-    <string name="segundaSamuel3">          </string>
-    <string name="segundaSamuel4">          </string>
-    <string name="segundaSamuel5">          </string>
-    <string name="segundaSamuel6">          </string>
-    <string name="segundaSamuel7">          </string>
-    <string name="segundaSamuel8">          </string>
-    <string name="segundaSamuel9">          </string>
-    <string name="segundaSamuel10">         </string>
-    <string name="segundaSamuel11">         </string>
-    <string name="segundaSamuel12">         </string>
-    <string name="segundaSamuel13">         </string>
-    <string name="segundaSamuel14">         </string>
-    <string name="segundaSamuel15">         </string>
-    <string name="segundaSamuel16">         </string>
-    <string name="segundaSamuel17">         </string>
-    <string name="segundaSamuel18">         </string>
-    <string name="segundaSamuel19">         </string>
-    <string name="segundaSamuel20">         </string>
-    <string name="segundaSamuel21">         </string>
-    <string name="segundaSamuel22">         </string>
-    <string name="segundaSamuel23">         </string>
-    <string name="segundaSamuel24">         </string>
-
-    <string name="primeraReyes1">           </string>
-    <string name="primeraReyes2">           </string>
-    <string name="primeraReyes3">           </string>
-    <string name="primeraReyes4">           </string>
-    <string name="primeraReyes5">           </string>
-    <string name="primeraReyes6">           </string>
-    <string name="primeraReyes7">           </string>
-    <string name="primeraReyes8">           </string>
-    <string name="primeraReyes9">           </string>
-    <string name="primeraReyes10">          </string>
-    <string name="primeraReyes11">          </string>
-    <string name="primeraReyes12">          </string>
-    <string name="primeraReyes13">          </string>
-    <string name="primeraReyes14">          </string>
-    <string name="primeraReyes15">          </string>
-    <string name="primeraReyes16">          </string>
-    <string name="primeraReyes17">          </string>
-    <string name="primeraReyes18">          </string>
-    <string name="primeraReyes19">          </string>
-    <string name="primeraReyes20">          </string>
-    <string name="primeraReyes21">          </string>
-    <string name="primeraReyes22">          </string>
 
     <string name="segundaReyes1">           </string>
     <string name="segundaReyes2">           </string>
@@ -222,13 +150,6 @@
     <string name="segundaCronicas34">       </string>
     <string name="segundaCronicas35">       </string>
     <string name="segundaCronicas36">       </string>
-
-
-
-
-
-
-
 
     <string name="job1">                    </string>
     <string name="job2">                    </string>
@@ -456,10 +377,6 @@
     <string name="proverbios30">            </string>
     <string name="proverbios31">            </string>
 
-
-
-
-
     <string name="isaias1">                 </string>
     <string name="isaias2">                 </string>
     <string name="isaias3">                 </string>
@@ -580,8 +497,6 @@
     <string name="jeremias51">              </string>
     <string name="jeremias52">              </string>
 
-
-
     <string name="ezequiel1">               </string>
     <string name="ezequiel2">               </string>
     <string name="ezequiel3">               </string>
@@ -631,31 +546,6 @@
     <string name="ezequiel47">              </string>
     <string name="ezequiel48">              </string>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <string name="mateo1">                  </string>
     <string name="mateo2">                  </string>
     <string name="mateo3">                  </string>
@@ -685,55 +575,6 @@
     <string name="mateo27">                 </string>
     <string name="mateo28">                 </string>
 
-
-
-    <string name="lucas1">                  </string>
-    <string name="lucas2">                  </string>
-    <string name="lucas3">                  </string>
-    <string name="lucas4">                  </string>
-    <string name="lucas5">                  </string>
-    <string name="lucas6">                  </string>
-    <string name="lucas7">                  </string>
-    <string name="lucas8">                  </string>
-    <string name="lucas9">                  </string>
-    <string name="lucas10">                 </string>
-    <string name="lucas11">                 </string>
-    <string name="lucas12">                 </string>
-    <string name="lucas13">                 </string>
-    <string name="lucas14">                 </string>
-    <string name="lucas15">                 </string>
-    <string name="lucas16">                 </string>
-    <string name="lucas17">                 </string>
-    <string name="lucas18">                 </string>
-    <string name="lucas19">                 </string>
-    <string name="lucas20">                 </string>
-    <string name="lucas21">                 </string>
-    <string name="lucas22">                 </string>
-    <string name="lucas23">                 </string>
-    <string name="lucas24">                 </string>
-
-    <string name="juan1">                   </string>
-    <string name="juan2">                   </string>
-    <string name="juan3">                   </string>
-    <string name="juan4">                   </string>
-    <string name="juan5">                   </string>
-    <string name="juan6">                   </string>
-    <string name="juan7">                   </string>
-    <string name="juan8">                   </string>
-    <string name="juan9">                   </string>
-    <string name="juan10">                  </string>
-    <string name="juan11">                  </string>
-    <string name="juan12">                  </string>
-    <string name="juan13">                  </string>
-    <string name="juan14">                  </string>
-    <string name="juan15">                  </string>
-    <string name="juan16">                  </string>
-    <string name="juan17">                  </string>
-    <string name="juan18">                  </string>
-    <string name="juan19">                  </string>
-    <string name="juan20">                  </string>
-    <string name="juan21">                  </string>
-
     <string name="hechos1">                 </string>
     <string name="hechos2">                 </string>
     <string name="hechos3">                 </string>
@@ -762,97 +603,5 @@
     <string name="hechos26">                </string>
     <string name="hechos27">                </string>
     <string name="hechos28">                </string>
-
-    <string name="romanos1">                </string>
-    <string name="romanos2">                </string>
-    <string name="romanos3">                </string>
-    <string name="romanos4">                </string>
-    <string name="romanos5">                </string>
-    <string name="romanos6">                </string>
-    <string name="romanos7">                </string>
-    <string name="romanos8">                </string>
-    <string name="romanos9">                </string>
-    <string name="romanos10">               </string>
-    <string name="romanos11">               </string>
-    <string name="romanos12">               </string>
-    <string name="romanos13">               </string>
-    <string name="romanos14">               </string>
-    <string name="romanos15">               </string>
-    <string name="romanos16">               </string>
-
-    <string name="primeraCorintios1">       </string>
-    <string name="primeraCorintios2">       </string>
-    <string name="primeraCorintios3">       </string>
-    <string name="primeraCorintios4">       </string>
-    <string name="primeraCorintios5">       </string>
-    <string name="primeraCorintios6">       </string>
-    <string name="primeraCorintios7">       </string>
-    <string name="primeraCorintios8">       </string>
-    <string name="primeraCorintios9">       </string>
-    <string name="primeraCorintios10">      </string>
-    <string name="primeraCorintios11">      </string>
-    <string name="primeraCorintios12">      </string>
-    <string name="primeraCorintios13">      </string>
-    <string name="primeraCorintios14">      </string>
-    <string name="primeraCorintios15">      </string>
-    <string name="primeraCorintios16">      </string>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <string name="apocalipsis1">            </string>
-    <string name="apocalipsis2">            </string>
-    <string name="apocalipsis3">            </string>
-    <string name="apocalipsis4">            </string>
-    <string name="apocalipsis5">            </string>
-    <string name="apocalipsis6">            </string>
-    <string name="apocalipsis7">            </string>
-    <string name="apocalipsis8">            </string>
-    <string name="apocalipsis9">            </string>
-    <string name="apocalipsis10">           </string>
-    <string name="apocalipsis11">           </string>
-    <string name="apocalipsis12">           </string>
-    <string name="apocalipsis13">           </string>
-    <string name="apocalipsis14">           </string>
-    <string name="apocalipsis15">           </string>
-    <string name="apocalipsis16">           </string>
-    <string name="apocalipsis17">           </string>
-    <string name="apocalipsis18">           </string>
-    <string name="apocalipsis19">           </string>
-    <string name="apocalipsis20">           </string>
-    <string name="apocalipsis21">           </string>
-    <string name="apocalipsis22">           </string>
-
 
 </resources>
