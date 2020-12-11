@@ -55,7 +55,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         database = FirebaseDatabase.getInstance();
         reference = database.getReference();
 
-        txtOlvContra = findViewById(R.id.txtOlvContra);
         txtRegistrate = findViewById(R.id.txtRegistrate);
 
         txtEmail = findViewById(R.id.txtEmail);

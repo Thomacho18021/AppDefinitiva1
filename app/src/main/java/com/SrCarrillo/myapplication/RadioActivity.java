@@ -31,6 +31,7 @@ public class RadioActivity extends AppCompatActivity {
         progressBar = findViewById(R.id.progressBar);
         progressBar.setIndeterminate(true);
         conectado = conectar();
+        imgPlayPause.setEnabled(false);
 
         imgPlayPause.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -45,6 +46,14 @@ public class RadioActivity extends AppCompatActivity {
             }
         });
     }
+
+    @Override
+    public void onBackPressed() {
+        super.onBackPressed();
+        mediaPlayer.stop();
+
+    }
+
     public boolean conectar(){
         Toast.makeText(getApplicationContext(),"Intentado conectar",Toast.LENGTH_LONG).show();
 

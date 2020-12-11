@@ -84,12 +84,12 @@ public class RegistrateActivity extends AppCompatActivity implements View.OnClic
                     if(email.equals(userObtenido.getEmail())){
                         userExiste = true;
                         alerta("Correo ya Existe");
-                        return;
+
                     }
                     if(nombreUsuario.equals(userObtenido.getNombreUsuario())){
                         userExiste = true;
                         alerta("Nombre de Usuario ya existe");
-                        return;
+
                     }
                 }
                 if(userExiste == false){
@@ -97,7 +97,7 @@ public class RegistrateActivity extends AppCompatActivity implements View.OnClic
                         alerta("Las contraseñas no cooinciden");
                         txtContra.setText("");
                         txtConfirmContra.setText("");
-                        return;
+
                     }
                 }
                 Usuario usuario = new Usuario(id,nombreUsuario,email,password);
