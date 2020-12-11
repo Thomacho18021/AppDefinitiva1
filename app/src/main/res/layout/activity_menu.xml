@@ -12,7 +12,7 @@
         android:layout_width="165dp"
         android:layout_height="165dp"
         android:background="@drawable/btnradio"
-        app:layout_constraintBottom_toTopOf="@+id/btn3"
+        app:layout_constraintBottom_toTopOf="@+id/btnProgramas"
         app:layout_constraintEnd_toStartOf="@+id/btnBiblia"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
@@ -32,9 +32,10 @@
         app:srcCompat="@android:drawable/divider_horizontal_dim_dark" />
 
     <ImageButton
-        android:id="@+id/btn3"
+        android:id="@+id/btnProgramas"
         android:layout_width="165dp"
         android:layout_height="165dp"
+        android:background="@drawable/btnprogramas"
         app:layout_constraintBottom_toTopOf="@+id/btnRRSS"
         app:layout_constraintEnd_toStartOf="@+id/btnImagenes"
         app:layout_constraintHorizontal_bias="0.5"
@@ -50,7 +51,7 @@
         app:layout_constraintBottom_toTopOf="@+id/btnValoranos"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toEndOf="@+id/btn3"
+        app:layout_constraintStart_toEndOf="@+id/btnProgramas"
         app:layout_constraintTop_toBottomOf="@+id/btnBiblia"
         app:srcCompat="@android:drawable/divider_horizontal_dim_dark" />
 
@@ -63,7 +64,7 @@
         app:layout_constraintEnd_toStartOf="@+id/btnValoranos"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btn3"
+        app:layout_constraintTop_toBottomOf="@+id/btnProgramas"
         app:srcCompat="@android:drawable/divider_horizontal_dim_dark" />
 
     <ImageButton

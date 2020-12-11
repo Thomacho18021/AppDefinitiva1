@@ -20,7 +20,7 @@ import com.google.firebase.storage.StorageReference;
 
 import java.util.ArrayList;
 
-public class ImgVersiculosActivity extends AppCompatActivity {
+public class ProgramasActivity extends AppCompatActivity {
 
     //private RecyclerView recyclerView;
 
@@ -41,40 +41,33 @@ public class ImgVersiculosActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
 
 
-        StorageReference storageReference = FirebaseStorage.getInstance().getReference().child("versiculosimg");
+        StorageReference storageReference = FirebaseStorage.getInstance().getReference().child("programasimg");
         //progressBar.setVisibility(View.VISIBLE);
         storageReference.listAll().addOnSuccessListener(new OnSuccessListener<ListResult>() {
-                @Override
-                public void onSuccess(ListResult listResult) {
-                    for (StorageReference fileRef : listResult.getItems()) {
-                        fileRef.getDownloadUrl().addOnSuccessListener(new OnSuccessListener<Uri>() {
-                            @Override
-                            public void onSuccess(Uri uri) {
-                                imageList.add(uri.toString());
-                                Log.d("item", uri.toString());
+            @Override
+            public void onSuccess(ListResult listResult) {
+                for (StorageReference fileRef : listResult.getItems()) {
+                    fileRef.getDownloadUrl().addOnSuccessListener(new OnSuccessListener<Uri>() {
+                        @Override
+                        public void onSuccess(Uri uri) {
+                            imageList.add(uri.toString());
+                            Log.d("item", uri.toString());
 
 
-                            }
-                        }).addOnSuccessListener(new OnSuccessListener<Uri>() {
-                            @Override
-                            public void onSuccess(Uri uri) {
-                                recyclerView.setAdapter(adapter);
-                                //progressBar.setVisibility(View.GONE);
+                        }
+                    }).addOnSuccessListener(new OnSuccessListener<Uri>() {
+                        @Override
+                        public void onSuccess(Uri uri) {
+                            recyclerView.setAdapter(adapter);
+                            //progressBar.setVisibility(View.GONE);
 
 
-                            }
-                        });
-                    }
+                        }
+                    });
                 }
-            });
+            }
+        });
 
 
-        }
-
-        public void levantarMenu(View v) {
-            ImageView imagen = (ImageView) findViewById(R.id.imageView);
-            PopupMenu popupMenu = new PopupMenu(this, imagen);
-            popupMenu.getMenuInflater().inflate(R.menu.imgmenu, popupMenu.getMenu());
-            popupMenu.show();
-        }
     }
+}

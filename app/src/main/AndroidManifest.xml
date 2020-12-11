@@ -12,7 +12,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppDefinitiva1">
-        <activity android:name=".BibliaActivity"></activity>
+        <activity android:name=".ProgramasActivity"></activity>
+        <activity android:name=".BibliaActivity" />
         <activity android:name=".ImgVersiculosActivity" />
         <activity android:name=".RedesActivity" />
         <activity android:name=".ValoranosActivity" />

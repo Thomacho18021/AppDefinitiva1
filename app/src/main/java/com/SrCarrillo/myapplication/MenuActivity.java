@@ -17,7 +17,7 @@ import com.google.firebase.auth.FirebaseUser;
 
 public class MenuActivity extends AppCompatActivity implements View.OnClickListener {
 
-    private ImageButton btnRadio, btnBiblia, btn3, btnImagenes, btnRRSS ,btnValoranos;
+    private ImageButton btnRadio, btnBiblia, btnProgramas, btnImagenes, btnRRSS ,btnValoranos;
     private String titulo;
     private String password;
 
@@ -43,14 +43,14 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
 
         btnRadio = findViewById(R.id.btnRadio);
         btnBiblia = findViewById(R.id.btnBiblia);
-        btn3 = findViewById(R.id.btn3);
+        btnProgramas = findViewById(R.id.btnProgramas);
         btnImagenes = findViewById(R.id.btnImagenes);
         btnRRSS = findViewById(R.id.btnRRSS);
         btnValoranos = findViewById(R.id.btnValoranos);
 
         btnRadio.setOnClickListener(this);
         btnBiblia.setOnClickListener(this);
-        btn3.setOnClickListener(this);
+        btnProgramas.setOnClickListener(this);
         btnImagenes.setOnClickListener(this);
         btnRRSS.setOnClickListener(this);
         btnValoranos.setOnClickListener(this);
@@ -99,7 +99,9 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.btnBiblia:
                 ir_a(BibliaActivity.class);
                 break;
-            case R.id.btn3:
+            case R.id.btnProgramas:
+                ir_a(ProgramasActivity.class);
+                break;
             case R.id.btnImagenes:
                 ir_a(ImgVersiculosActivity.class);
                 break;
