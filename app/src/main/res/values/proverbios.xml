@@ -1,0 +1,2095 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="proverbios1">
+
+        &lt;big>&lt;b>Motivo de los proverbios&lt;/big>&lt;/b>&lt;br>
+        &lt;big>&lt;big>1&lt;/big>&lt;/big> Los proverbios de Salomón, hijo de David, rey de Israel.&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> Para entender sabiduría y doctrina,&lt;br>
+        Para conocer razones prudentes,&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> Para recibir el consejo de prudencia,&lt;br>
+        Justicia, juicio y equidad;&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> Para dar sagacidad a los simples,&lt;br>
+        Y a los jóvenes inteligencia y cordura.&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> Oirá el sabio, y aumentará el saber,&lt;br>
+        Y el entendido adquirirá consejo,&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> Para entender proverbio y declaración,&lt;br>
+        Palabras de sabios, y sus dichos profundos.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> El principio de la sabiduría es el temor de Jehová;&lt;br>
+        Los insensatos desprecian la sabiduría y la enseñanza.&lt;br>
+
+        &lt;big>&lt;b>Amonestaciones de la Sabiduría&lt;/big>&lt;/b>&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> Oye, hijo mío, la instrucción de tu padre,&lt;br>
+        Y no desprecies la dirección de tu madre;&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> Porque adorno de gracia serán a tu cabeza,&lt;br>
+        Y collares a tu cuello.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> Hijo mío, si los pecadores te quisieren engañar,&lt;br>
+        No consientas.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> Si dijeren: Ven con nosotros;&lt;br>
+        Pongamos asechanzas para derramar sangre,&lt;br>
+        Acechemos sin motivo al inocente;&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> Los tragaremos vivos como el Seol,&lt;br>
+        Y enteros, como los que caen en un abismo;&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> Hallaremos riquezas de toda clase,&lt;br>
+        Llenaremos nuestras casas de despojos;&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> Echa tu suerte entre nosotros;&lt;br>
+        Tengamos todos una bolsa,&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> Hijo mío, no andes en camino con ellos.&lt;br>
+        Aparta tu pie de sus veredas,&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> Porque sus pies corren hacia el mal,&lt;br>
+        Y van presurosos a derramar sangre.&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> Porque en vano se tenderá la red&lt;br>
+        Ante los ojos de toda ave;&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> Pero ellos a su propia sangre ponen asechanzas,&lt;br>
+        Y a sus almas tienden lazo.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> Tales son las sendas de todo el que es dado a la codicia,&lt;br>
+        La cual quita la vida de sus poseedores.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> La sabiduría clama en las calles,&lt;br>
+        Alza su voz en las plazas;&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> Clama en los principales lugares de reunión;&lt;br>
+        En las entradas de las puertas de la ciudad dice sus razones.&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> ¿Hasta cuándo, oh simples, amaréis la simpleza,&lt;br>
+        Y los burladores desearán el burlar,&lt;br>
+        Y los insensatos aborrecerán la ciencia?&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> Volveos a mi reprensión;&lt;br>
+        He aquí yo derramaré mi espíritu sobre vosotros,&lt;br>
+        Y os haré saber mis palabras.&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> Por cuanto llamé, y no quisisteis oír,&lt;br>
+        Extendí mi mano, y no hubo quien atendiese,&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> Sino que desechasteis todo consejo mío&lt;br>
+        Y mi reprensión no quisisteis,&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> También yo me reiré en vuestra calamidad,&lt;br>
+        Y me burlaré cuando os viniere lo que teméis;&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> Cuando viniere como una destrucción lo que teméis,&lt;br>
+        Y vuestra calamidad llegare como un torbellino;&lt;br>
+        Cuando sobre vosotros viniere tribulación y angustia.&lt;br>
+        &lt;small>&lt;b>28&lt;/small>&lt;/b> Entonces me llamarán, y no responderé;&lt;br>
+        Me buscarán de mañana, y no me hallarán.&lt;br>
+        &lt;small>&lt;b>29&lt;/small>&lt;/b> Por cuanto aborrecieron la sabiduría,&lt;br>
+        Y no escogieron el temor de Jehová,&lt;br>
+        &lt;small>&lt;b>30&lt;/small>&lt;/b> Ni quisieron mi consejo,&lt;br>
+        Y menospreciaron toda reprensión mía,&lt;br>
+        &lt;small>&lt;b>31&lt;/small>&lt;/b> Comerán del fruto de su camino,&lt;br>
+        Y serán hastiados de sus propios consejos.&lt;br>
+        &lt;small>&lt;b>32&lt;/small>&lt;/b> Porque el desvío de los ignorantes los matará,&lt;br>
+        Y la prosperidad de los necios los echará a perder;&lt;br>
+        &lt;small>&lt;b>33&lt;/small>&lt;/b> Mas el que me oyere, habitará confiadamente&lt;br>
+        Y vivirá tranquilo, sin temor del mal.&lt;br>
+
+
+    </string>
+    <string name="proverbios2">
+
+        &lt;big>&lt;b>Excelencias de la sabiduría&lt;/big>&lt;/b>&lt;br>
+
+        &lt;big>&lt;big>2&lt;/big>&lt;/big> Hijo mío, si recibieres mis palabras,&lt;br>
+        Y mis mandamientos guardares dentro de ti,&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> Haciendo estar atento tu oído a la sabiduría;&lt;br>
+        Si inclinares tu corazón a la prudencia,&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> Si clamares a la inteligencia,&lt;br>
+        Y a la prudencia dieres tu voz;&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> Si como a la plata la buscares,&lt;br>
+        Y la escudriñares como a tesoros,&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> Entonces entenderás el temor de Jehová,&lt;br>
+        Y hallarás el conocimiento de Dios.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> Porque Jehová da la sabiduría,&lt;br>
+        Y de su boca viene el conocimiento y la inteligencia.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> El provee de sana sabiduría a los rectos;&lt;br>
+        Es escudo a los que caminan rectamente.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> Es el que guarda las veredas del juicio,&lt;br>
+        Y preserva el camino de sus santos.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> Entonces entenderás justicia, juicio&lt;br>
+        Y equidad, y todo buen camino.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> Cuando la sabiduría entrare en tu corazón,&lt;br>
+        Y la ciencia fuere grata a tu alma,&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> La discreción te guardará;&lt;br>
+        Te preservará la inteligencia,&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> Para librarte del mal camino,&lt;br>
+        De los hombres que hablan perversidades,&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> Que dejan los caminos derechos,&lt;br>
+        Para andar por sendas tenebrosas;&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> Que se alegran haciendo el mal,&lt;br>
+        Que se huelgan en las perversidades del vicio;&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> Cuyas veredas son torcidas,&lt;br>
+        Y torcidos sus caminos.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> Serás librado de la mujer extraña,&lt;br>
+        De la ajena que halaga con sus palabras,&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> La cual abandona al compañero de su juventud,&lt;br>
+        Y se olvida del pacto de su Dios.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> Por lo cual su casa está inclinada a la muerte,&lt;br>
+        Y sus veredas hacia los muertos;&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> Todos los que a ella se lleguen, no volverán,&lt;br>
+        Ni seguirán otra vez los senderos de la vida.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> Así andarás por el camino de los buenos,&lt;br>
+        Y seguirás las veredas de los justos;&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> Porque los rectos habitarán la tierra,&lt;br>
+        Y los perfectos permanecerán en ella,&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> Mas los impíos serán cortados de la tierra,&lt;br>
+        Y los prevaricadores serán de ella desarraigados.&lt;br>
+
+
+
+    </string>
+    <string name="proverbios3">
+
+        &lt;big>&lt;b>Exhortación a la obediencia&lt;/big>&lt;/b>&lt;br>
+
+        &lt;big>&lt;big>3&lt;/big>&lt;/big> Hijo mío, no te olvides de mi ley,&lt;br>
+        Y tu corazón guarde mis mandamientos;&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> Porque largura de días y años de vida&lt;br>
+        Y paz te aumentarán.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> Nunca se aparten de ti la misericordia y la verdad;&lt;br>
+        Atalas a tu cuello,&lt;br>
+        Escríbelas en la tabla de tu corazón;&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> Y hallarás gracia y buena opinión&lt;br>
+        Ante los ojos de Dios y de los hombres.&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> Fíate de Jehová de todo tu corazón,&lt;br>
+        Y no te apoyes en tu propia prudencia.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> Reconócelo en todos tus caminos,&lt;br>
+        Y él enderezará tus veredas.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> No seas sabio en tu propia opinión;&lt;br>
+        Teme a Jehová, y apártate del mal;&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> Porque será medicina a tu cuerpo,&lt;br>
+        Y refrigerio para tus huesos.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> Honra a Jehová con tus bienes,&lt;br>
+        Y con las primicias de todos tus frutos;&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> Y serán llenos tus graneros con abundancia,&lt;br>
+        Y tus lagares rebosarán de mosto.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> No menosprecies, hijo mío, el castigo de Jehová,&lt;br>
+        Ni te fatigues de su corrección;&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> Porque Jehová al que ama castiga,&lt;br>
+        Como el padre al hijo a quien quiere.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> Bienaventurado el hombre que halla la sabiduría,&lt;br>
+        Y que obtiene la inteligencia;&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> Porque su ganancia es mejor que la ganancia de la plata,&lt;br>
+        Y sus frutos más que el oro fino.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> Más preciosa es que las piedras preciosas;&lt;br>
+        Y todo lo que puedes desear, no se puede comparar a ella.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> Largura de días está en su mano derecha;&lt;br>
+        En su izquierda, riquezas y honra.&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> Sus caminos son caminos deleitosos,&lt;br>
+        Y todas sus veredas paz.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> Ella es árbol de vida a los que de ella echan mano,&lt;br>
+        Y bienaventurados son los que la retienen.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> Jehová con sabiduría fundó la tierra;&lt;br>
+        Afirmó los cielos con inteligencia.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> Con su ciencia los abismos fueron divididos,&lt;br>
+        Y destilan rocío los cielos.&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> Hijo mío, no se aparten estas cosas de tus ojos;&lt;br>
+        Guarda la ley y el consejo,&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> Y serán vida a tu alma,&lt;br>
+        Y gracia a tu cuello.&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> Entonces andarás por tu camino confiadamente,&lt;br>
+        Y tu pie no tropezará.&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> Cuando te acuestes, no tendrás temor,&lt;br>
+        Sino que te acostarás, y tu sueño será grato.&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> No tendrás temor de pavor repentino,&lt;br>
+        Ni de la ruina de los impíos cuando viniere,&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> Porque Jehová será tu confianza,&lt;br>
+        Y él preservará tu pie de quedar preso.&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> No te niegues a hacer el bien a quien es debido,&lt;br>
+        Cuando tuvieres poder para hacerlo.&lt;br>
+        &lt;small>&lt;b>28&lt;/small>&lt;/b> No digas a tu prójimo: Anda, y vuelve,&lt;br>
+        Y mañana te daré,&lt;br>
+        Cuando tienes contigo qué darle.&lt;br>
+        &lt;small>&lt;b>29&lt;/small>&lt;/b> No intentes mal contra tu prójimo&lt;br>
+        Que habita confiado junto a ti.&lt;br>
+        &lt;small>&lt;b>30&lt;/small>&lt;/b> No tengas pleito con nadie sin razón,&lt;br>
+        Si no te han hecho agravio.&lt;br>
+        &lt;small>&lt;b>31&lt;/small>&lt;/b> No envidies al hombre injusto,&lt;br>
+        Ni escojas ninguno de sus caminos.&lt;br>
+        &lt;small>&lt;b>32&lt;/small>&lt;/b> Porque Jehová abomina al perverso;&lt;br>
+        Mas su comunión íntima es con los justos.&lt;br>
+        &lt;small>&lt;b>33&lt;/small>&lt;/b> La maldición de Jehová está en la casa del impío,&lt;br>
+        Pero bendecirá la morada de los justos.&lt;br>
+        &lt;small>&lt;b>34&lt;/small>&lt;/b> Ciertamente él escarnecerá a los escarnecedores,&lt;br>
+        Y a los humildes dará gracia.&lt;br>
+        &lt;small>&lt;b>35&lt;/small>&lt;/b> Los sabios heredarán honra,&lt;br>
+        Mas los necios llevarán ignominia.&lt;br>
+
+
+
+    </string>
+    <string name="proverbios4">
+
+        &lt;big>&lt;b>Beneficios de la sabiduría&lt;/big>&lt;/b>&lt;br>
+
+        &lt;big>&lt;big>4&lt;/big>&lt;/big> Oíd, hijos, la enseñanza de un padre,&lt;br>
+        Y estad atentos, para que conozcáis cordura.&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> Porque os doy buena enseñanza;&lt;br>
+        No desamparéis mi ley.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> Porque yo también fui hijo de mi padre,&lt;br>
+        Delicado y único delante de mi madre.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> Y él me enseñaba, y me decía:&lt;br>
+        Retenga tu corazón mis razones,&lt;br>
+        Guarda mis mandamientos, y vivirás.&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> Adquiere sabiduría, adquiere inteligencia;&lt;br>
+        No te olvides ni te apartes de las razones de mi boca;&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> No la dejes, y ella te guardará;&lt;br>
+        Amala, y te conservará.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> Sabiduría ante todo; adquiere sabiduría;&lt;br>
+        Y sobre todas tus posesiones adquiere inteligencia.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> Engrandécela, y ella te engrandecerá;&lt;br>
+        Ella te honrará, cuando tú la hayas abrazado.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> Adorno de gracia dará a tu cabeza;&lt;br>
+        Corona de hermosura te entregará.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> Oye, hijo mío, y recibe mis razones,&lt;br>
+        Y se te multiplicarán años de vida.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> Por el camino de la sabiduría te he encaminado,&lt;br>
+        Y por veredas derechas te he hecho andar.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> Cuando anduvieres, no se estrecharán tus pasos,&lt;br>
+        Y si corrieres, no tropezarás.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> Retén el consejo, no lo dejes;&lt;br>
+        Guárdalo, porque eso es tu vida.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> No entres por la vereda de los impíos,&lt;br>
+        Ni vayas por el camino de los malos.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> Déjala, no pases por ella;&lt;br>
+        Apártate de ella, pasa.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> Porque no duermen ellos si no han hecho mal,&lt;br>
+        Y pierden el sueño si no han hecho caer a alguno.&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> Porque comen pan de maldad, y beben vino de robos;&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> Mas la senda de los justos es como la luz de la aurora,&lt;br>
+        Que va en aumento hasta que el día es perfecto.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> El camino de los impíos es como la oscuridad;&lt;br>
+        No saben en qué tropiezan.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> Hijo mío, está atento a mis palabras;&lt;br>
+        Inclina tu oído a mis razones.&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> No se aparten de tus ojos;&lt;br>
+        Guárdalas en medio de tu corazón;&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> Porque son vida a los que las hallan,&lt;br>
+        Y medicina a todo su cuerpo.&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> Sobre toda cosa guardada, guarda tu corazón;&lt;br>
+        Porque de él mana la vida.&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> Aparta de ti la perversidad de la boca,&lt;br>
+        Y aleja de ti la iniquidad de los labios.&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> Tus ojos miren lo recto,&lt;br>
+        Y diríjanse tus párpados hacia lo que tienes delante.&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> Examina la senda de tus pies,&lt;br>
+        Y todos tus caminos sean rectos.&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> No te desvíes a la derecha ni a la izquierda;&lt;br>
+        Aparta tu pie del mal.&lt;br>
+
+
+
+    </string>
+    <string name="proverbios5">
+
+        &lt;big>&lt;b>Amonestación contra la impureza&lt;/big>&lt;/b>&lt;br>
+
+        &lt;big>&lt;big>5&lt;/big>&lt;/big> Hijo mío, está atento a mi sabiduría,&lt;br>
+        Y a mi inteligencia inclina tu oído,&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> Para que guardes consejo,&lt;br>
+        Y tus labios conserven la ciencia.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> Porque los labios de la mujer extraña destilan miel,&lt;br>
+        Y su paladar es más blando que el aceite;&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> Mas su fin es amargo como el ajenjo,&lt;br>
+        Agudo como espada de dos filos.&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> Sus pies descienden a la muerte;&lt;br>
+        Sus pasos conducen al Seol.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> Sus caminos son inestables; no los conocerás,&lt;br>
+        Si no considerares el camino de vida.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> Ahora pues, hijos, oídme,&lt;br>
+        Y no os apartéis de las razones de mi boca.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> Aleja de ella tu camino,&lt;br>
+        Y no te acerques a la puerta de su casa;&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> Para que no des a los extraños tu honor,&lt;br>
+        Y tus años al cruel;&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> No sea que extraños se sacien de tu fuerza,&lt;br>
+        Y tus trabajos estén en casa del extraño;&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> Y gimas al final,&lt;br>
+        Cuando se consuma tu carne y tu cuerpo,&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> Y digas: ¡Cómo aborrecí el consejo,&lt;br>
+        Y mi corazón menospreció la reprensión;&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> No oí la voz de los que me instruían,&lt;br>
+        Y a los que me enseñaban no incliné mi oído!&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> Casi en todo mal he estado,&lt;br>
+        En medio de la sociedad y de la congregación.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> Bebe el agua de tu misma cisterna,&lt;br>
+        Y los raudales de tu propio pozo.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> ¿Se derramarán tus fuentes por las calles,&lt;br>
+        Y tus corrientes de aguas por las plazas?&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> Sean para ti solo,&lt;br>
+        Y no para los extraños contigo.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> Sea bendito tu manantial,&lt;br>
+        Y alégrate con la mujer de tu juventud,&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> Como cierva amada y graciosa gacela.&lt;br>
+        Sus caricias te satisfagan en todo tiempo,&lt;br>
+        Y en su amor recréate siempre.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> ¿Y por qué, hijo mío, andarás ciego con la mujer ajena,&lt;br>
+        Y abrazarás el seno de la extraña?&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> Porque los caminos del hombre están ante los ojos de Jehová,&lt;br>
+        Y él considera todas sus veredas.&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> Prenderán al impío sus propias iniquidades,&lt;br>
+        Y retenido será con las cuerdas de su pecado.&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> El morirá por falta de corrección,&lt;br>
+        Y errará por lo inmenso de su locura.&lt;br>
+
+
+
+    </string>
+    <string name="proverbios6">
+
+        &lt;big>&lt;b>Amonestación contra la pereza y la falsedad&lt;/big>&lt;/b>&lt;br>
+
+        &lt;big>&lt;big>6&lt;/big>&lt;/big> Hijo mío, si salieres fiador por tu amigo,&lt;br>
+        Si has empeñado tu palabra a un extraño,&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> Te has enlazado con las palabras de tu boca,&lt;br>
+        Y has quedado preso en los dichos de tus labios.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> Haz esto ahora, hijo mío, y líbrate,&lt;br>
+        Ya que has caído en la mano de tu prójimo;&lt;br>
+        Ve, humíllate, y asegúrate de tu amigo.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> No des sueño a tus ojos,&lt;br>
+        Ni a tus párpados adormecimiento;&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> Escápate como gacela de la mano del cazador,&lt;br>
+        Y como ave de la mano del que arma lazos.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> Ve a la hormiga, oh perezoso,&lt;br>
+        Mira sus caminos, y sé sabio;&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> La cual no teniendo capitán,&lt;br>
+        Ni gobernador, ni señor,&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> Prepara en el verano su comida,&lt;br>
+        Y recoge en el tiempo de la siega su mantenimiento.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> Perezoso, ¿hasta cuándo has de dormir?&lt;br>
+        ¿Cuándo te levantarás de tu sueño?&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> Un poco de sueño, un poco de dormitar,&lt;br>
+        Y cruzar por un poco las manos para reposo;&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> Así vendrá tu necesidad como caminante,&lt;br>
+        Y tu pobreza como hombre armado.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> El hombre malo, el hombre depravado,&lt;br>
+        Es el que anda en perversidad de boca;&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> Que guiña los ojos, que habla con los pies,&lt;br>
+        Que hace señas con los dedos.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> Perversidades hay en su corazón; anda pensando el mal en todo tiempo;&lt;br>
+        Siembra las discordias.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> Por tanto, su calamidad vendrá de repente;&lt;br>
+        Súbitamente será quebrantado, y no habrá remedio.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> Seis cosas aborrece Jehová,&lt;br>
+        Y aun siete abomina su alma:&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> Los ojos altivos, la lengua mentirosa,&lt;br>
+        Las manos derramadoras de sangre inocente,&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> El corazón que maquina pensamientos inicuos,&lt;br>
+        Los pies presurosos para correr al mal,&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> El testigo falso que habla mentiras,&lt;br>
+        Y el que siembra discordia entre hermanos.&lt;br>
+
+        &lt;big>&lt;b>Amonestación contra el adulterio&lt;/big>&lt;/b>&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> Guarda, hijo mío, el mandamiento de tu padre,&lt;br>
+        Y no dejes la enseñanza de tu madre;&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> Atalos siempre en tu corazón,&lt;br>
+        Enlázalos a tu cuello.&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> Te guiarán cuando andes; cuando duermas te guardarán;&lt;br>
+        Hablarán contigo cuando despiertes.&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> Porque el mandamiento es lámpara, y la enseñanza es luz,&lt;br>
+        Y camino de vida las reprensiones que te instruyen,&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> Para que te guarden de la mala mujer,&lt;br>
+        De la blandura de la lengua de la mujer extraña.&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> No codicies su hermosura en tu corazón,&lt;br>
+        Ni ella te prenda con sus ojos;&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> Porque a causa de la mujer ramera el hombre es reducido a un bocado de pan;&lt;br>
+        Y la mujer caza la preciosa alma del varón.&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> ¿Tomará el hombre fuego en su seno&lt;br>
+        Sin que sus vestidos ardan?&lt;br>
+        &lt;small>&lt;b>28&lt;/small>&lt;/b> ¿Andará el hombre sobre brasas&lt;br>
+        Sin que sus pies se quemen?&lt;br>
+        &lt;small>&lt;b>29&lt;/small>&lt;/b> Así es el que se llega a la mujer de su prójimo;&lt;br>
+        No quedará impune ninguno que la tocare.&lt;br>
+        &lt;small>&lt;b>30&lt;/small>&lt;/b> No tienen en poco al ladrón si hurta&lt;br>
+        Para saciar su apetito cuando tiene hambre;&lt;br>
+        &lt;small>&lt;b>31&lt;/small>&lt;/b> Pero si es sorprendido, pagará siete veces;&lt;br>
+        Entregará todo el haber de su casa.&lt;br>
+        &lt;small>&lt;b>32&lt;/small>&lt;/b> Mas el que comete adulterio es falto de entendimiento;&lt;br>
+        Corrompe su alma el que tal hace.&lt;br>
+        &lt;small>&lt;b>33&lt;/small>&lt;/b> Heridas y vergüenza hallará,&lt;br>
+        Y su afrenta nunca será borrada.&lt;br>
+        &lt;small>&lt;b>34&lt;/small>&lt;/b> Porque los celos son el furor del hombre,&lt;br>
+        Y no perdonará en el día de la venganza.&lt;br>
+        &lt;small>&lt;b>35&lt;/small>&lt;/b> No aceptará ningún rescate,&lt;br>
+        Ni querrá perdonar, aunque multipliques los dones.&lt;br>
+
+
+
+    </string>
+    <string name="proverbios7">
+
+        &lt;big>&lt;b>Las artimañas de la ramera&lt;/big>&lt;/b>&lt;br>
+
+        &lt;big>&lt;big>7&lt;/big>&lt;/big> Hijo mío, guarda mis razones,&lt;br>
+        Y atesora contigo mis mandamientos.&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> Guarda mis mandamientos y vivirás,&lt;br>
+        Y mi ley como las niñas de tus ojos.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> Lígalos a tus dedos;&lt;br>
+        Escríbelos en la tabla de tu corazón.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> Di a la sabiduría: Tú eres mi hermana,&lt;br>
+        Y a la inteligencia llama parienta;&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> Para que te guarden de la mujer ajena,&lt;br>
+        Y de la extraña que ablanda sus palabras.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> Porque mirando yo por la ventana de mi casa,&lt;br>
+        Por mi celosía,&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> Vi entre los simples,&lt;br>
+        Consideré entre los jóvenes,&lt;br>
+        A un joven falto de entendimiento,&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> El cual pasaba por la calle, junto a la esquina,&lt;br>
+        E iba camino a la casa de ella,&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> A la tarde del día, cuando ya oscurecía,&lt;br>
+        En la oscuridad y tinieblas de la noche.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> Cuando he aquí, una mujer le sale al encuentro,&lt;br>
+        Con atavío de ramera y astuta de corazón.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> Alborotadora y rencillosa,&lt;br>
+        Sus pies no pueden estar en casa;&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> Unas veces está en la calle, otras veces en las plazas,&lt;br>
+        Acechando por todas las esquinas.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> Se asió de él, y le besó.&lt;br>
+        Con semblante descarado le dijo:&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> Sacrificios de paz había prometido,&lt;br>
+        Hoy he pagado mis votos;&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> Por tanto, he salido a encontrarte,&lt;br>
+        Buscando diligentemente tu rostro, y te he hallado.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> He adornado mi cama con colchas&lt;br>
+        Recamadas con cordoncillo de Egipto;&lt;br>
+        &lt;small>&lt;b>1&lt;/small>&lt;/b>&lt;small>&lt;b>He&lt;/small>&lt;/b> perfumado mi cámara&lt;br>
+        Con mirra, áloes y canela.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> Ven, embriaguémonos de amores hasta la mañana;&lt;br>
+        Alegrémonos en amores.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> Porque el marido no está en casa;&lt;br>
+        Se ha ido a un largo viaje.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> La bolsa de dinero llevó en su mano;&lt;br>
+        El día señalado volverá a su casa.&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> Lo rindió con la suavidad de sus muchas palabras,&lt;br>
+        Le obligó con la zalamería de sus labios.&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> Al punto se marchó tras ella,&lt;br>
+        Como va el buey al degolladero,&lt;br>
+        Y como el necio a las prisiones para ser castigado;&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> Como el ave que se apresura a la red,&lt;br>
+        Y no sabe que es contra su vida,&lt;br>
+        Hasta que la saeta traspasa su corazón.&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> Ahora pues, hijos, oídme,&lt;br>
+        Y estad atentos a las razones de mi boca.&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> No se aparte tu corazón a sus caminos;&lt;br>
+        No yerres en sus veredas.&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> Porque a muchos ha hecho caer heridos,&lt;br>
+        Y aun los más fuertes han sido muertos por ella.&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> Camino al Seol es su casa,&lt;br>
+        Que conduce a las cámaras de la muerte.&lt;br>
+
+
+
+    </string>
+    <string name="proverbios8">
+
+        &lt;big>&lt;b>Excelencia y eternidad de la Sabiduría&lt;/big>&lt;/b>&lt;br>
+
+        &lt;big>&lt;big>8&lt;/big>&lt;/big> ¿No clama la sabiduría,&lt;br>
+        Y da su voz la inteligencia?&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> En las alturas junto al camino,&lt;br>
+        A las encrucijadas de las veredas se para;&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> En el lugar de las puertas, a la entrada de la ciudad,&lt;br>
+        A la entrada de las puertas da voces:&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> Oh hombres, a vosotros clamo;&lt;br>
+        Dirijo mi voz a los hijos de los hombres.&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> Entended, oh simples, discreción;&lt;br>
+        Y vosotros, necios, entrad en cordura.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> Oíd, porque hablaré cosas excelentes,&lt;br>
+        Y abriré mis labios para cosas rectas.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> Porque mi boca hablará verdad,&lt;br>
+        Y la impiedad abominan mis labios.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> Justas son todas las razones de mi boca;&lt;br>
+        No hay en ellas cosa perversa ni torcida.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> Todas ellas son rectas al que entiende,&lt;br>
+        Y razonables a los que han hallado sabiduría.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> Recibid mi enseñanza, y no plata;&lt;br>
+        Y ciencia antes que el oro escogido.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> Porque mejor es la sabiduría que las piedras preciosas;&lt;br>
+        Y todo cuanto se puede desear, no es de compararse con ella.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> Yo, la sabiduría, habito con la cordura,&lt;br>
+        Y hallo la ciencia de los consejos.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> El temor de Jehová es aborrecer el mal;&lt;br>
+        La soberbia y la arrogancia, el mal camino,&lt;br>
+        Y la boca perversa, aborrezco.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> Conmigo está el consejo y el buen juicio;&lt;br>
+        Yo soy la inteligencia; mío es el poder.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> Por mí reinan los reyes,&lt;br>
+        Y los príncipes determinan justicia.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> Por mí dominan los príncipes,&lt;br>
+        Y todos los gobernadores juzgan la tierra.&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> Yo amo a los que me aman,&lt;br>
+        Y me hallan los que temprano me buscan.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> Las riquezas y la honra están conmigo;&lt;br>
+        Riquezas duraderas, y justicia.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> Mejor es mi fruto que el oro, y que el oro refinado;&lt;br>
+        Y mi rédito mejor que la plata escogida.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> Por vereda de justicia guiaré,&lt;br>
+        Por en medio de sendas de juicio,&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> Para hacer que los que me aman tengan su heredad,&lt;br>
+        Y que yo llene sus tesoros.&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> Jehová me poseía en el principio,&lt;br>
+        Ya de antiguo, antes de sus obras.&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> Eternamente tuve el principado, desde el principio,&lt;br>
+        Antes de la tierra.&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> Antes de los abismos fui engendrada;&lt;br>
+        Antes que fuesen las fuentes de las muchas aguas.&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> Antes que los montes fuesen formados,&lt;br>
+        Antes de los collados, ya había sido yo engendrada;&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> No había aún hecho la tierra, ni los campos,&lt;br>
+        Ni el principio del polvo del mundo.&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> Cuando formaba los cielos, allí estaba yo;&lt;br>
+        Cuando trazaba el círculo sobre la faz del abismo;&lt;br>
+        &lt;small>&lt;b>28&lt;/small>&lt;/b> Cuando afirmaba los cielos arriba,&lt;br>
+        Cuando afirmaba las fuentes del abismo;&lt;br>
+        &lt;small>&lt;b>29&lt;/small>&lt;/b> Cuando ponía al mar su estatuto,&lt;br>
+        Para que las aguas no traspasasen su mandamiento;&lt;br>
+        Cuando establecía los fundamentos de la tierra,&lt;br>
+        &lt;small>&lt;b>30&lt;/small>&lt;/b> Con él estaba yo ordenándolo todo,&lt;br>
+        Y era su delicia de día en día,&lt;br>
+        Teniendo solaz delante de él en todo tiempo.&lt;br>
+        &lt;small>&lt;b>31&lt;/small>&lt;/b> Me regocijo en la parte habitable de su tierra;&lt;br>
+        Y mis delicias son con los hijos de los hombres.&lt;br>
+        &lt;small>&lt;b>32&lt;/small>&lt;/b> Ahora, pues, hijos, oídme,&lt;br>
+        Y bienaventurados los que guardan mis caminos.&lt;br>
+        &lt;small>&lt;b>33&lt;/small>&lt;/b> Atended el consejo, y sed sabios,&lt;br>
+        Y no lo menospreciéis.&lt;br>
+        &lt;small>&lt;b>34&lt;/small>&lt;/b> Bienaventurado el hombre que me escucha,&lt;br>
+        Velando a mis puertas cada día,&lt;br>
+        Aguardando a los postes de mis puertas.&lt;br>
+        &lt;small>&lt;b>35&lt;/small>&lt;/b> Porque el que me halle, hallará la vida,&lt;br>
+        Y alcanzará el favor de Jehová.&lt;br>
+        &lt;small>&lt;b>36&lt;/small>&lt;/b> Mas el que peca contra mí, defrauda su alma;&lt;br>
+        Todos los que me aborrecen aman la muerte.&lt;br>
+
+
+
+    </string>
+    <string name="proverbios9">
+
+        &lt;big>&lt;b>La Sabiduría y la mujer insensata&lt;/big>&lt;/b>&lt;br>
+
+        &lt;big>&lt;big>9&lt;/big>&lt;/big> La sabiduría edificó su casa,&lt;br>
+        Labró sus siete columnas.&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> Mató sus víctimas, mezcló su vino,&lt;br>
+        Y puso su mesa.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> Envió sus criadas;&lt;br>
+        Sobre lo más alto de la ciudad clamó.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> Dice a cualquier simple: Ven acá.&lt;br>
+        A los faltos de cordura dice:&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> Venid, comed mi pan,&lt;br>
+        Y bebed del vino que yo he mezclado.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> Dejad las simplezas, y vivid,&lt;br>
+        Y andad por el camino de la inteligencia.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> El que corrige al escarnecedor, se acarrea afrenta;&lt;br>
+        El que reprende al impío, se atrae mancha.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> No reprendas al escarnecedor, para que no te aborrezca;&lt;br>
+        Corrige al sabio, y te amará.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> Da al sabio, y será más sabio;&lt;br>
+        Enseña al justo, y aumentará su saber.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> El temor de Jehová es el principio de la sabiduría,&lt;br>
+        Y el conocimiento del Santísimo es la inteligencia.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> Porque por mí se aumentarán tus días,&lt;br>
+        Y años de vida se te añadirán.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> Si fueres sabio, para ti lo serás;&lt;br>
+        Y si fueres escarnecedor, pagarás tú solo.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> La mujer insensata es alborotadora;&lt;br>
+        Es simple e ignorante.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> Se sienta en una silla a la puerta de su casa,&lt;br>
+        En los lugares altos de la ciudad,&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> Para llamar a los que pasan por el camino,&lt;br>
+        Que van por sus caminos derechos.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> Dice a cualquier simple: Ven acá.&lt;br>
+        A los faltos de cordura dijo:&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> Las aguas hurtadas son dulces,&lt;br>
+        Y el pan comido en oculto es sabroso.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> Y no saben que allí están los muertos;&lt;br>
+        Que sus convidados están en lo profundo del Seol.&lt;br>
+
+
+
+    </string>
+    <string name="proverbios10">
+
+        &lt;big>&lt;b>Contraste entre el justo y el malvado&lt;/big>&lt;/b>&lt;br>
+
+        &lt;big>&lt;big>10&lt;/big>&lt;/big> Los proverbios de Salomón.&lt;br>
+        El hijo sabio alegra al padre,&lt;br>
+        Pero el hijo necio es tristeza de su madre.&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> Los tesoros de maldad no serán de provecho;&lt;br>
+        Mas la justicia libra de muerte.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> Jehová no dejará padecer hambre al justo;&lt;br>
+        Mas la iniquidad lanzará a los impíos.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> La mano negligente empobrece;&lt;br>
+        Mas la mano de los diligentes enriquece.&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> El que recoge en el verano es hombre entendido;&lt;br>
+        El que duerme en el tiempo de la siega es hijo que avergüenza.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> Hay bendiciones sobre la cabeza del justo;&lt;br>
+        Pero violencia cubrirá la boca de los impíos.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> La memoria del justo será bendita;&lt;br>
+        Mas el nombre de los impíos se pudrirá.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> El sabio de corazón recibirá los mandamientos;&lt;br>
+        Mas el necio de labios caerá.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> El que camina en integridad anda confiado;&lt;br>
+        Mas el que pervierte sus caminos será quebrantado.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> El que guiña el ojo acarrea tristeza;&lt;br>
+        Y el necio de labios será castigado.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> Manantial de vida es la boca del justo;&lt;br>
+        Pero violencia cubrirá la boca de los impíos.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> El odio despierta rencillas;&lt;br>
+        Pero el amor cubrirá todas las faltas.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> En los labios del prudente se halla sabiduría;&lt;br>
+        Mas la vara es para las espaldas del falto de cordura.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> Los sabios guardan la sabiduría;&lt;br>
+        Mas la boca del necio es calamidad cercana.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> Las riquezas del rico son su ciudad fortificada;&lt;br>
+        Y el desmayo de los pobres es su pobreza.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> La obra del justo es para vida;&lt;br>
+        Mas el fruto del impío es para pecado.&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> Camino a la vida es guardar la instrucción;&lt;br>
+        Pero quien desecha la reprensión, yerra.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> El que encubre el odio es de labios mentirosos;&lt;br>
+        Y el que propaga calumnia es necio.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> En las muchas palabras no falta pecado;&lt;br>
+        Mas el que refrena sus labios es prudente.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> Plata escogida es la lengua del justo;&lt;br>
+        Mas el corazón de los impíos es como nada.&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> Los labios del justo apacientan a muchos,&lt;br>
+        Mas los necios mueren por falta de entendimiento.&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> La bendición de Jehová es la que enriquece,&lt;br>
+        Y no añade tristeza con ella.&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> El hacer maldad es como una diversión al insensato;&lt;br>
+        Mas la sabiduría recrea al hombre de entendimiento.&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> Lo que el impío teme, eso le vendrá;&lt;br>
+        Pero a los justos les será dado lo que desean.&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> Como pasa el torbellino, así el malo no permanece;&lt;br>
+        Mas el justo permanece para siempre.&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> Como el vinagre a los dientes, y como el humo a los ojos,&lt;br>
+        Así es el perezoso a los que lo envían.&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> El temor de Jehová aumentará los días;&lt;br>
+        Mas los años de los impíos serán acortados.&lt;br>
+        &lt;small>&lt;b>28&lt;/small>&lt;/b> La esperanza de los justos es alegría;&lt;br>
+        Mas la esperanza de los impíos perecerá.&lt;br>
+        &lt;small>&lt;b>29&lt;/small>&lt;/b> El camino de Jehová es fortaleza al perfecto;&lt;br>
+        Pero es destrucción a los que hacen maldad.&lt;br>
+        &lt;small>&lt;b>30&lt;/small>&lt;/b> El justo no será removido jamás;&lt;br>
+        Pero los impíos no habitarán la tierra.&lt;br>
+        &lt;small>&lt;b>31&lt;/small>&lt;/b> La boca del justo producirá sabiduría;&lt;br>
+        Mas la lengua perversa será cortada.&lt;br>
+        &lt;small>&lt;b>32&lt;/small>&lt;/b> Los labios del justo saben hablar lo que agrada;&lt;br>
+        Mas la boca de los impíos habla perversidades.&lt;br>
+
+
+
+    </string>
+    <string name="proverbios11">
+
+        &lt;big>&lt;big>11&lt;/big>&lt;/big> El peso falso es abominación a Jehová;&lt;br>
+        Mas la pesa cabal le agrada.&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> Cuando viene la soberbia, viene también la deshonra;&lt;br>
+        Mas con los humildes está la sabiduría.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> La integridad de los rectos los encaminará;&lt;br>
+        Pero destruirá a los pecadores la perversidad de ellos.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> No aprovecharán las riquezas en el día de la ira;&lt;br>
+        Mas la justicia librará de muerte.&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> La justicia del perfecto enderezará su camino;&lt;br>
+        Mas el impío por su impiedad caerá.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> La justicia de los rectos los librará;&lt;br>
+        Mas los pecadores serán atrapados en su pecado.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> Cuando muere el hombre impío, perece su esperanza;&lt;br>
+        Y la expectación de los malos perecerá.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> El justo es librado de la tribulación;&lt;br>
+        Mas el impío entra en lugar suyo.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> El hipócrita con la boca daña a su prójimo;&lt;br>
+        Mas los justos son librados con la sabiduría.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> En el bien de los justos la ciudad se alegra;&lt;br>
+        Mas cuando los impíos perecen hay fiesta.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> Por la bendición de los rectos la ciudad será engrandecida;&lt;br>
+        Mas por la boca de los impíos será trastornada.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> El que carece de entendimiento menosprecia a su prójimo;&lt;br>
+        Mas el hombre prudente calla.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> El que anda en chismes descubre el secreto;&lt;br>
+        Mas el de espíritu fiel lo guarda todo.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> Donde no hay dirección sabia, caerá el pueblo;&lt;br>
+        Mas en la multitud de consejeros hay seguridad.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> Con ansiedad será afligido el que sale por fiador de un extraño;&lt;br>
+        Mas el que aborreciere las fianzas vivirá seguro.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> La mujer agraciada tendrá honra,&lt;br>
+        Y los fuertes tendrán riquezas.&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> A su alma hace bien el hombre misericordioso;&lt;br>
+        Mas el cruel se atormenta a sí mismo.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> El impío hace obra falsa;&lt;br>
+        Mas el que siembra justicia tendrá galardón firme.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> Como la justicia conduce a la vida,&lt;br>
+        Así el que sigue el mal lo hace para su muerte.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> Abominación son a Jehová los perversos de corazón;&lt;br>
+        Mas los perfectos de camino le son agradables.&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> Tarde o temprano, el malo será castigado;&lt;br>
+        Mas la descendencia de los justos será librada.&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> Como zarcillo de oro en el hocico de un cerdo&lt;br>
+        Es la mujer hermosa y apartada de razón.&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> El deseo de los justos es solamente el bien;&lt;br>
+        Mas la esperanza de los impíos es el enojo.&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> Hay quienes reparten, y les es añadido más;&lt;br>
+        Y hay quienes retienen más de lo que es justo, pero vienen a pobreza.&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> El alma generosa será prosperada;&lt;br>
+        Y el que saciare, él también será saciado.&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> Al que acapara el grano, el pueblo lo maldecirá;&lt;br>
+        Pero bendición será sobre la cabeza del que lo vende.&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> El que procura el bien buscará favor;&lt;br>
+        Mas al que busca el mal, éste le vendrá.&lt;br>
+        &lt;small>&lt;b>28&lt;/small>&lt;/b> El que confía en sus riquezas caerá;&lt;br>
+        Mas los justos reverdecerán como ramas.&lt;br>
+        &lt;small>&lt;b>29&lt;/small>&lt;/b> El que turba su casa heredará viento;&lt;br>
+        Y el necio será siervo del sabio de corazón.&lt;br>
+        &lt;small>&lt;b>30&lt;/small>&lt;/b> El fruto del justo es árbol de vida;&lt;br>
+        Y el que gana almas es sabio.&lt;br>
+        &lt;small>&lt;b>31&lt;/small>&lt;/b> Ciertamente el justo será recompensado en la tierra;&lt;br>
+        ¡Cuánto más el impío y el pecador!&lt;br>
+
+    </string>
+    <string name="proverbios12">
+
+        &lt;big>&lt;big>12&lt;/big>&lt;/big> El que ama la instrucción ama la sabiduría;&lt;br>
+        Mas el que aborrece la reprensión es ignorante.&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> El bueno alcanzará favor de Jehová;&lt;br>
+        Mas él condenará al hombre de malos pensamientos.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> El hombre no se afirmará por medio de la impiedad;&lt;br>
+        Mas la raíz de los justos no será removida.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> La mujer virtuosa es corona de su marido;&lt;br>
+        Mas la mala, como carcoma en sus huesos.&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> Los pensamientos de los justos son rectitud;&lt;br>
+        Mas los consejos de los impíos, engaño.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> Las palabras de los impíos son asechanzas para derramar sangre;&lt;br>
+        Mas la boca de los rectos los librará.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> Dios trastornará a los impíos, y no serán más;&lt;br>
+        Pero la casa de los justos permanecerá firme.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> Según su sabiduría es alabado el hombre;&lt;br>
+        Mas el perverso de corazón será menospreciado.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> Más vale el despreciado que tiene servidores,&lt;br>
+        Que el que se jacta, y carece de pan.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> El justo cuida de la vida de su bestia;&lt;br>
+        Mas el corazón de los impíos es cruel.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> El que labra su tierra se saciará de pan;&lt;br>
+        Mas el que sigue a los vagabundos es falto de entendimiento.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> Codicia el impío la red de los malvados;&lt;br>
+        Mas la raíz de los justos dará fruto.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> El impío es enredado en la prevaricación de sus labios;&lt;br>
+        Mas el justo saldrá de la tribulación.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> El hombre será saciado de bien del fruto de su boca;&lt;br>
+        Y le será pagado según la obra de sus manos.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> El camino del necio es derecho en su opinión;&lt;br>
+        Mas el que obedece al consejo es sabio.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> El necio al punto da a conocer su ira;&lt;br>
+        Mas el que no hace caso de la injuria es prudente.&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> El que habla verdad declara justicia;&lt;br>
+        Mas el testigo mentiroso, engaño.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> Hay hombres cuyas palabras son como golpes de espada;&lt;br>
+        Mas la lengua de los sabios es medicina.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> El labio veraz permanecerá para siempre;&lt;br>
+        Mas la lengua mentirosa sólo por un momento.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> Engaño hay en el corazón de los que piensan el mal;&lt;br>
+        Pero alegría en el de los que piensan el bien.&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> Ninguna adversidad acontecerá al justo;&lt;br>
+        Mas los impíos serán colmados de males.&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> Los labios mentirosos son abominación a Jehová;&lt;br>
+        Pero los que hacen verdad son su contentamiento.&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> El hombre cuerdo encubre su saber;&lt;br>
+        Mas el corazón de los necios publica la necedad.&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> La mano de los diligentes señoreará;&lt;br>
+        Mas la negligencia será tributaria.&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> La congoja en el corazón del hombre lo abate;&lt;br>
+        Mas la buena palabra lo alegra.&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> El justo sirve de guía a su prójimo;&lt;br>
+        Mas el camino de los impíos les hace errar.&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> El indolente ni aun asará lo que ha cazado;&lt;br>
+        Pero haber precioso del hombre es la diligencia.&lt;br>
+        &lt;small>&lt;b>28&lt;/small>&lt;/b> En el camino de la justicia está la vida;&lt;br>
+        Y en sus caminos no hay muerte.&lt;br>
+
+    </string>
+    <string name="proverbios13">
+
+        &lt;big>&lt;big>13&lt;/big>&lt;/big> El hijo sabio recibe el consejo del padre;&lt;br>
+        Mas el burlador no escucha las reprensiones.&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> Del fruto de su boca el hombre comerá el bien;&lt;br>
+        Mas el alma de los prevaricadores hallará el mal.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> El que guarda su boca guarda su alma;&lt;br>
+        Mas el que mucho abre sus labios tendrá calamidad.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> El alma del perezoso desea, y nada alcanza;&lt;br>
+        Mas el alma de los diligentes será prosperada.&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> El justo aborrece la palabra de mentira;&lt;br>
+        Mas el impío se hace odioso e infame.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> La justicia guarda al de perfecto camino;&lt;br>
+        Mas la impiedad trastornará al pecador.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> Hay quienes pretenden ser ricos, y no tienen nada;&lt;br>
+        Y hay quienes pretenden ser pobres, y tienen muchas riquezas.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> El rescate de la vida del hombre está en sus riquezas;&lt;br>
+        Pero el pobre no oye censuras.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> La luz de los justos se alegrará;&lt;br>
+        Mas se apagará la lámpara de los impíos.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> Ciertamente la soberbia concebirá contienda;&lt;br>
+        Mas con los avisados está la sabiduría.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> Las riquezas de vanidad disminuirán;&lt;br>
+        Pero el que recoge con mano laboriosa las aumenta.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> La esperanza que se demora es tormento del corazón;&lt;br>
+        Pero árbol de vida es el deseo cumplido.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> El que menosprecia el precepto perecerá por ello;&lt;br>
+        Mas el que teme el mandamiento será recompensado.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> La ley del sabio es manantial de vida&lt;br>
+        Para apartarse de los lazos de la muerte.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> El buen entendimiento da gracia;&lt;br>
+        Mas el camino de los transgresores es duro.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> Todo hombre prudente procede con sabiduría;&lt;br>
+        Mas el necio manifestará necedad.&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> El mal mensajero acarrea desgracia;&lt;br>
+        Mas el mensajero fiel acarrea salud.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> Pobreza y vergüenza tendrá el que menosprecia el consejo;&lt;br>
+        Mas el que guarda la corrección recibirá honra.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> El deseo cumplido regocija el alma;&lt;br>
+        Pero apartarse del mal es abominación a los necios.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> El que anda con sabios, sabio será;&lt;br>
+        Mas el que se junta con necios será quebrantado.&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> El mal perseguirá a los pecadores,&lt;br>
+        Mas los justos serán premiados con el bien.&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> El bueno dejará herederos a los hijos de sus hijos;&lt;br>
+        Pero la riqueza del pecador está guardada para el justo.&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> En el barbecho de los pobres hay mucho pan;&lt;br>
+        Mas se pierde por falta de juicio.&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> El que detiene el castigo, a su hijo aborrece;&lt;br>
+        Mas el que lo ama, desde temprano lo corrige.&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> El justo come hasta saciar su alma;&lt;br>
+        Mas el vientre de los impíos tendrá necesidad.&lt;br>
+
+    </string>
+    <string name="proverbios14">
+
+        &lt;big>&lt;big>14&lt;/big>&lt;/big> La mujer sabia edifica su casa;&lt;br>
+        Mas la necia con sus manos la derriba.&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> El que camina en su rectitud teme a Jehová;&lt;br>
+        Mas el de caminos pervertidos lo menosprecia.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> En la boca del necio está la vara de la soberbia;&lt;br>
+        Mas los labios de los sabios los guardarán.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> Sin bueyes el granero está vacío;&lt;br>
+        Mas por la fuerza del buey hay abundancia de pan.&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> El testigo verdadero no mentirá;&lt;br>
+        Mas el testigo falso hablará mentiras.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> Busca el escarnecedor la sabiduría y no la halla;&lt;br>
+        Mas al hombre entendido la sabiduría le es fácil.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> Vete de delante del hombre necio,&lt;br>
+        Porque en él no hallarás labios de ciencia.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> La ciencia del prudente está en entender su camino;&lt;br>
+        Mas la indiscreción de los necios es engaño.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> Los necios se mofan del pecado;&lt;br>
+        Mas entre los rectos hay buena voluntad.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> El corazón conoce la amargura de su alma;&lt;br>
+        Y extraño no se entremeterá en su alegría.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> La casa de los impíos será asolada;&lt;br>
+        Pero florecerá la tienda de los rectos.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> Hay camino que al hombre le parece derecho;&lt;br>
+        Pero su fin es camino de muerte.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> Aun en la risa tendrá dolor el corazón;&lt;br>
+        Y el término de la alegría es congoja.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> De sus caminos será hastiado el necio de corazón;&lt;br>
+        Pero el hombre de bien estará contento del suyo.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> El simple todo lo cree;&lt;br>
+        Mas el avisado mira bien sus pasos.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> El sabio teme y se aparta del mal;&lt;br>
+        Mas el insensato se muestra insolente y confiado.&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> El que fácilmente se enoja hará locuras;&lt;br>
+        Y el hombre perverso será aborrecido.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> Los simples heredarán necedad;&lt;br>
+        Mas los prudentes se coronarán de sabiduría.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> Los malos se inclinarán delante de los buenos,&lt;br>
+        Y los impíos a las puertas del justo.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> El pobre es odioso aun a su amigo;&lt;br>
+        Pero muchos son los que aman al rico.&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> Peca el que menosprecia a su prójimo;&lt;br>
+        Mas el que tiene misericordia de los pobres es bienaventurado.&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> ¿No yerran los que piensan el mal?&lt;br>
+        Misericordia y verdad alcanzarán los que piensan el bien.&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> En toda labor hay fruto;&lt;br>
+        Mas las vanas palabras de los labios empobrecen.&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> Las riquezas de los sabios son su corona;&lt;br>
+        Pero la insensatez de los necios es infatuación.&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> El testigo verdadero libra las almas;&lt;br>
+        Mas el engañoso hablará mentiras.&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> En el temor de Jehová está la fuerte confianza;&lt;br>
+        Y esperanza tendrán sus hijos.&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> El temor de Jehová es manantial de vida&lt;br>
+        Para apartarse de los lazos de la muerte.&lt;br>
+        &lt;small>&lt;b>28&lt;/small>&lt;/b> En la multitud del pueblo está la gloria del rey;&lt;br>
+        Y en la falta de pueblo la debilidad del príncipe.&lt;br>
+        &lt;small>&lt;b>29&lt;/small>&lt;/b> El que tarda en airarse es grande de entendimiento;&lt;br>
+        Mas el que es impaciente de espíritu enaltece la necedad.&lt;br>
+        &lt;small>&lt;b>30&lt;/small>&lt;/b> El corazón apacible es vida de la carne;&lt;br>
+        Mas la envidia es carcoma de los huesos.&lt;br>
+        &lt;small>&lt;b>31&lt;/small>&lt;/b> El que oprime al pobre afrenta a su Hacedor;&lt;br>
+        Mas el que tiene misericordia del pobre, lo honra.&lt;br>
+        &lt;small>&lt;b>32&lt;/small>&lt;/b> Por su maldad será lanzado el impío;&lt;br>
+        Mas el justo en su muerte tiene esperanza.&lt;br>
+        &lt;small>&lt;b>33&lt;/small>&lt;/b> En el corazón del prudente reposa la sabiduría;&lt;br>
+        Pero no es conocida en medio de los necios.&lt;br>
+        &lt;small>&lt;b>34&lt;/small>&lt;/b> La justicia engrandece a la nación;&lt;br>
+        Mas el pecado es afrenta de las naciones.&lt;br>
+        &lt;small>&lt;b>35&lt;/small>&lt;/b> La benevolencia del rey es para con el servidor entendido;&lt;br>
+        Mas su enojo contra el que lo avergüenza.&lt;br>
+
+    </string>
+    <string name="proverbios15">
+
+        &lt;big>&lt;big>15&lt;/big>&lt;/big> La blanda respuesta quita la ira;&lt;br>
+        Mas la palabra áspera hace subir el furor.&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> La lengua de los sabios adornará la sabiduría;&lt;br>
+        Mas la boca de los necios hablará sandeces.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> Los ojos de Jehová están en todo lugar,&lt;br>
+        Mirando a los malos y a los buenos.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> La lengua apacible es árbol de vida;&lt;br>
+        Mas la perversidad de ella es quebrantamiento de espíritu.&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> El necio menosprecia el consejo de su padre;&lt;br>
+        Mas el que guarda la corrección vendrá a ser prudente.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> En la casa del justo hay gran provisión;&lt;br>
+        Pero turbación en las ganancias del impío.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> La boca de los sabios esparce sabiduría;&lt;br>
+        No así el corazón de los necios.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> El sacrificio de los impíos es abominación a Jehová;&lt;br>
+        Mas la oración de los rectos es su gozo.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> Abominación es a Jehová el camino del impío;&lt;br>
+        Mas él ama al que sigue justicia.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> La reconvención es molesta al que deja el camino;&lt;br>
+        Y el que aborrece la corrección morirá.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> El Seol y el Abadón están delante de Jehová;&lt;br>
+        ¡Cuánto más los corazones de los hombres!&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> El escarnecedor no ama al que le reprende,&lt;br>
+        Ni se junta con los sabios.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> El corazón alegre hermosea el rostro;&lt;br>
+        Mas por el dolor del corazón el espíritu se abate.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> El corazón entendido busca la sabiduría;&lt;br>
+        Mas la boca de los necios se alimenta de necedades.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> Todos los días del afligido son difíciles;&lt;br>
+        Mas el de corazón contento tiene un banquete continuo.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> Mejor es lo poco con el temor de Jehová,&lt;br>
+        Que el gran tesoro donde hay turbación.&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> Mejor es la comida de legumbres donde hay amor,&lt;br>
+        Que de buey engordado donde hay odio.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> El hombre iracundo promueve contiendas;&lt;br>
+        Mas el que tarda en airarse apacigua la rencilla.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> El camino del perezoso es como seto de espinos;&lt;br>
+        Mas la vereda de los rectos, como una calzada.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> El hijo sabio alegra al padre;&lt;br>
+        Mas el hombre necio menosprecia a su madre.&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> La necedad es alegría al falto de entendimiento;&lt;br>
+        Mas el hombre entendido endereza sus pasos.&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> Los pensamientos son frustrados donde no hay consejo;&lt;br>
+        Mas en la multitud de consejeros se afirman.&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> El hombre se alegra con la respuesta de su boca;&lt;br>
+        Y la palabra a su tiempo, ¡cuán buena es!&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> El camino de la vida es hacia arriba al entendido,&lt;br>
+        Para apartarse del Seol abajo.&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> Jehová asolará la casa de los soberbios;&lt;br>
+        Pero afirmará la heredad de la viuda.&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> Abominación son a Jehová los pensamientos del malo;&lt;br>
+        Mas las expresiones de los limpios son limpias.&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> Alborota su casa el codicioso;&lt;br>
+        Mas el que aborrece el soborno vivirá.&lt;br>
+        &lt;small>&lt;b>28&lt;/small>&lt;/b> El corazón del justo piensa para responder;&lt;br>
+        Mas la boca de los impíos derrama malas cosas.&lt;br>
+        &lt;small>&lt;b>29&lt;/small>&lt;/b> Jehová está lejos de los impíos;&lt;br>
+        Pero él oye la oración de los justos.&lt;br>
+        &lt;small>&lt;b>30&lt;/small>&lt;/b> La luz de los ojos alegra el corazón,&lt;br>
+        Y la buena nueva conforta los huesos.&lt;br>
+        &lt;small>&lt;b>31&lt;/small>&lt;/b> El oído que escucha las amonestaciones de la vida,&lt;br>
+        Entre los sabios morará.&lt;br>
+        &lt;small>&lt;b>32&lt;/small>&lt;/b> El que tiene en poco la disciplina menosprecia su alma;&lt;br>
+        Mas el que escucha la corrección tiene entendimiento.&lt;br>
+        &lt;small>&lt;b>33&lt;/small>&lt;/b> El temor de Jehová es enseñanza de sabiduría;&lt;br>
+        Y a la honra precede la humildad.&lt;br>
+
+    </string>
+    <string name="proverbios16">
+
+        &lt;big>&lt;b>Proverbios sobre la vida y la conducta&lt;/big>&lt;/b>&lt;br>
+
+        &lt;big>&lt;big>16&lt;/big>&lt;/big> Del hombre son las disposiciones del corazón;&lt;br>
+        Mas de Jehová es la respuesta de la lengua.&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> Todos los caminos del hombre son limpios en su propia opinión;&lt;br>
+        Pero Jehová pesa los espíritus.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> Encomienda a Jehová tus obras,&lt;br>
+        Y tus pensamientos serán afirmados.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> Todas las cosas ha hecho Jehová para sí mismo,&lt;br>
+        Y aun al impío para el día malo.&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> Abominación es a Jehová todo altivo de corazón;&lt;br>
+        Ciertamente no quedará impune.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> Con misericordia y verdad se corrige el pecado,&lt;br>
+        Y con el temor de Jehová los hombres se apartan del mal.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> Cuando los caminos del hombre son agradables a Jehová,&lt;br>
+        Aun a sus enemigos hace estar en paz con él.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> Mejor es lo poco con justicia&lt;br>
+        Que la muchedumbre de frutos sin derecho.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> El corazón del hombre piensa su camino;&lt;br>
+        Mas Jehová endereza sus pasos.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> Oráculo hay en los labios del rey;&lt;br>
+        En juicio no prevaricará su boca.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> Peso y balanzas justas son de Jehová;&lt;br>
+        Obra suya son todas las pesas de la bolsa.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> Abominación es a los reyes hacer impiedad,&lt;br>
+        Porque con justicia será afirmado el trono.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> Los labios justos son el contentamiento de los reyes,&lt;br>
+        Y éstos aman al que habla lo recto.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> La ira del rey es mensajero de muerte;&lt;br>
+        Mas el hombre sabio la evitará.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> En la alegría del rostro del rey está la vida,&lt;br>
+        Y su benevolencia es como nube de lluvia tardía.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> Mejor es adquirir sabiduría que oro preciado;&lt;br>
+        Y adquirir inteligencia vale más que la plata.&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> El camino de los rectos se aparta del mal;&lt;br>
+        Su vida guarda el que guarda su camino.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> Antes del quebrantamiento es la soberbia,&lt;br>
+        Y antes de la caída la altivez de espíritu.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> Mejor es humillar el espíritu con los humildes&lt;br>
+        Que repartir despojos con los soberbios.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> El entendido en la palabra hallará el bien,&lt;br>
+        Y el que confía en Jehová es bienaventurado.&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> El sabio de corazón es llamado prudente,&lt;br>
+        Y la dulzura de labios aumenta el saber.&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> Manantial de vida es el entendimiento al que lo posee;&lt;br>
+        Mas la erudición de los necios es necedad.&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> El corazón del sabio hace prudente su boca,&lt;br>
+        Y añade gracia a sus labios.&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> Panal de miel son los dichos suaves;&lt;br>
+        Suavidad al alma y medicina para los huesos.&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> Hay camino que parece derecho al hombre,&lt;br>
+        Pero su fin es camino de muerte.&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> El alma del que trabaja, trabaja para sí,&lt;br>
+        Porque su boca le estimula.&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> El hombre perverso cava en busca del mal,&lt;br>
+        Y en sus labios hay como llama de fuego.&lt;br>
+        &lt;small>&lt;b>28&lt;/small>&lt;/b> El hombre perverso levanta contienda,&lt;br>
+        Y el chismoso aparta a los mejores amigos.&lt;br>
+        &lt;small>&lt;b>29&lt;/small>&lt;/b> El hombre malo lisonjea a su prójimo,&lt;br>
+        Y le hace andar por camino no bueno.&lt;br>
+        &lt;small>&lt;b>30&lt;/small>&lt;/b> Cierra sus ojos para pensar perversidades;&lt;br>
+        Mueve sus labios, efectúa el mal.&lt;br>
+        &lt;small>&lt;b>31&lt;/small>&lt;/b> Corona de honra es la vejez&lt;br>
+        Que se halla en el camino de justicia.&lt;br>
+        &lt;small>&lt;b>32&lt;/small>&lt;/b> Mejor es el que tarda en airarse que el fuerte;&lt;br>
+        Y el que se enseñorea de su espíritu, que el que toma una ciudad.&lt;br>
+        &lt;small>&lt;b>33&lt;/small>&lt;/b> La suerte se echa en el regazo;&lt;br>
+        Mas de Jehová es la decisión de ella.&lt;br>
+
+
+
+    </string>
+    <string name="proverbios17">
+
+        &lt;big>&lt;big>17&lt;/big>&lt;/big> Mejor es un bocado seco, y en paz,&lt;br>
+        Que casa de contiendas llena de provisiones.&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> El siervo prudente se enseñoreará del hijo que deshonra,&lt;br>
+        Y con los hermanos compartirá la herencia.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> El crisol para la plata, y la hornaza para el oro;&lt;br>
+        Pero Jehová prueba los corazones.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> El malo está atento al labio inicuo;&lt;br>
+        Y el mentiroso escucha la lengua detractora.&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> El que escarnece al pobre afrenta a su Hacedor;&lt;br>
+        Y el que se alegra de la calamidad no quedará sin castigo.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> Corona de los viejos son los nietos,&lt;br>
+        Y la honra de los hijos, sus padres.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> No conviene al necio la altilocuencia;&lt;br>
+        ¡Cuánto menos al príncipe el labio mentiroso!&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> Piedra preciosa es el soborno para el que lo practica;&lt;br>
+        Adondequiera que se vuelve, halla prosperidad.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> El que cubre la falta busca amistad;&lt;br>
+        Mas el que la divulga, aparta al amigo.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> La reprensión aprovecha al entendido,&lt;br>
+        Más que cien azotes al necio.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> El rebelde no busca sino el mal,&lt;br>
+        Y mensajero cruel será enviado contra él.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> Mejor es encontrarse con una osa a la cual han robado sus cachorros,&lt;br>
+        Que con un fatuo en su necedad.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> El que da mal por bien,&lt;br>
+        No se apartará el mal de su casa.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> El que comienza la discordia es como quien suelta las aguas;&lt;br>
+        Deja, pues, la contienda, antes que se enrede.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> El que justifica al impío, y el que condena al justo,&lt;br>
+        Ambos son igualmente abominación a Jehová.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> ¿De qué sirve el precio en la mano del necio para comprar sabiduría,&lt;br>
+        No teniendo entendimiento?&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> En todo tiempo ama el amigo,&lt;br>
+        Y es como un hermano en tiempo de angustia.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> El hombre falto de entendimiento presta fianzas,&lt;br>
+        Y sale por fiador en presencia de su amigo.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> El que ama la disputa, ama la transgresión;&lt;br>
+        Y el que abre demasiado la puerta busca su ruina.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> El perverso de corazón nunca hallará el bien,&lt;br>
+        Y el que revuelve con su lengua caerá en el mal.&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> El que engendra al insensato, para su tristeza lo engendra;&lt;br>
+        Y el padre del necio no se alegrará.&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> El corazón alegre constituye buen remedio;&lt;br>
+        Mas el espíritu triste seca los huesos.&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> El impío toma soborno del seno&lt;br>
+        Para pervertir las sendas de la justicia.&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> En el rostro del entendido aparece la sabiduría;&lt;br>
+        Mas los ojos del necio vagan hasta el extremo de la tierra.&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> El hijo necio es pesadumbre de su padre,&lt;br>
+        Y amargura a la que lo dio a luz.&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> Ciertamente no es bueno condenar al justo,&lt;br>
+        Ni herir a los nobles que hacen lo recto.&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> El que ahorra sus palabras tiene sabiduría;&lt;br>
+        De espíritu prudente es el hombre entendido.&lt;br>
+        &lt;small>&lt;b>28&lt;/small>&lt;/b> Aun el necio, cuando calla, es contado por sabio;&lt;br>
+        El que cierra sus labios es entendido.&lt;br>
+
+
+
+    </string>
+    <string name="proverbios18">
+
+        &lt;big>&lt;big>18&lt;/big>&lt;/big> Su deseo busca el que se desvía,&lt;br>
+        Y se entremete en todo negocio.&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> No toma placer el necio en la inteligencia,&lt;br>
+        Sino en que su corazón se descubra.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> Cuando viene el impío, viene también el menosprecio,&lt;br>
+        Y con el deshonrador la afrenta.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> Aguas profundas son las palabras de la boca del hombre;&lt;br>
+        Y arroyo que rebosa, la fuente de la sabiduría.&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> Tener respeto a la persona del impío,&lt;br>
+        Para pervertir el derecho del justo, no es bueno.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> Los labios del necio traen contienda;&lt;br>
+        Y su boca los azotes llama.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> La boca del necio es quebrantamiento para sí,&lt;br>
+        Y sus labios son lazos para su alma.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> Las palabras del chismoso son como bocados suaves,&lt;br>
+        Y penetran hasta las entrañas.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> También el que es negligente en su trabajo&lt;br>
+        Es hermano del hombre disipador.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> Torre fuerte es el nombre de Jehová;&lt;br>
+        A él correrá el justo, y será levantado.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> Las riquezas del rico son su ciudad fortificada,&lt;br>
+        Y como un muro alto en su imaginación.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> Antes del quebrantamiento se eleva el corazón del hombre,&lt;br>
+        Y antes de la honra es el abatimiento.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> Al que responde palabra antes de oír,&lt;br>
+        Le es fatuidad y oprobio.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> El ánimo del hombre soportará su enfermedad;&lt;br>
+        Mas ¿quién sorportará al ánimo angustiado?&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> El corazón del entendido adquiere sabiduría;&lt;br>
+        Y el oído de los sabios busca la ciencia.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> La dádiva del hombre le ensancha el camino&lt;br>
+        Y le lleva delante de los grandes.&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> Justo parece el primero que aboga por su causa;&lt;br>
+        Pero viene su adversario, y le descubre.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> La suerte pone fin a los pleitos,&lt;br>
+        Y decide entre los poderosos.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> El hermano ofendido es más tenaz que una ciudad fuerte,&lt;br>
+        Y las contiendas de los hermanos son como cerrojos de alcázar.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> Del fruto de la boca del hombre se llenará su vientre;&lt;br>
+        Se saciará del producto de sus labios.&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> La muerte y la vida están en poder de la lengua,&lt;br>
+        Y el que la ama comerá de sus frutos.&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> El que halla esposa halla el bien,&lt;br>
+        Y alcanza la benevolencia de Jehová.&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> El pobre habla con ruegos,&lt;br>
+        Mas el rico responde durezas.&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> El hombre que tiene amigos ha de mostrarse amigo;&lt;br>
+        Y amigo hay más unido que un hermano.&lt;br>
+
+
+
+    </string>
+    <string name="proverbios19">
+
+        &lt;big>&lt;big>19&lt;/big>&lt;/big> Mejor es el pobre que camina en integridad,&lt;br>
+        Que el de perversos labios y fatuo.&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> El alma sin ciencia no es buena,&lt;br>
+        Y aquel que se apresura con los pies, peca.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> La insensatez del hombre tuerce su camino,&lt;br>
+        Y luego contra Jehová se irrita su corazón.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> Las riquezas traen muchos amigos;&lt;br>
+        Mas el pobre es apartado de su amigo.&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> El testigo falso no quedará sin castigo,&lt;br>
+        Y el que habla mentiras no escapará.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> Muchos buscan el favor del generoso,&lt;br>
+        Y cada uno es amigo del hombre que da.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> Todos los hermanos del pobre le aborrecen;&lt;br>
+        ¡Cuánto más sus amigos se alejarán de él!&lt;br>
+        Buscará la palabra, y no la hallará.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> El que posee entendimiento ama su alma;&lt;br>
+        El que guarda la inteligencia hallará el bien.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> El testigo falso no quedará sin castigo,&lt;br>
+        Y el que habla mentiras perecerá.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> No conviene al necio el deleite;&lt;br>
+        ¡Cuánto menos al siervo ser señor de los príncipes!&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> La cordura del hombre detiene su furor,&lt;br>
+        Y su honra es pasar por alto la ofensa.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> Como rugido de cachorro de león es la ira del rey,&lt;br>
+        Y su favor como el rocío sobre la hierba.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> Dolor es para su padre el hijo necio,&lt;br>
+        Y gotera continua las contiendas de la mujer.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> La casa y las riquezas son herencia de los padres;&lt;br>
+        Mas de Jehová la mujer prudente.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> La pereza hace caer en profundo sueño,&lt;br>
+        Y el alma negligente padecerá hambre.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> El que guarda el mandamiento guarda su alma;&lt;br>
+        Mas el que menosprecia sus caminos morirá.&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> A Jehová presta el que da al pobre,&lt;br>
+        Y el bien que ha hecho, se lo volverá a pagar.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> Castiga a tu hijo en tanto que hay esperanza;&lt;br>
+        Mas no se apresure tu alma para destruirlo.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> El de grande ira llevará la pena;&lt;br>
+        Y si usa de violencias, añadirá nuevos males.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> Escucha el consejo, y recibe la corrección,&lt;br>
+        Para que seas sabio en tu vejez.&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> Muchos pensamientos hay en el corazón del hombre;&lt;br>
+        Mas el consejo de Jehová permanecerá.&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> Contentamiento es a los hombres hacer misericordia;&lt;br>
+        Pero mejor es el pobre que el mentiroso.&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> El temor de Jehová es para vida,&lt;br>
+        Y con él vivirá lleno de reposo el hombre;&lt;br>
+        No será visitado de mal.&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> El perezoso mete su mano en el plato,&lt;br>
+        Y ni aun a su boca la llevará.&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> Hiere al escarnecedor, y el simple se hará avisado;&lt;br>
+        Y corrigiendo al entendido, entenderá ciencia.&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> El que roba a su padre y ahuyenta a su madre,&lt;br>
+        Es hijo que causa vergüenza y acarrea oprobio.&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> Cesa, hijo mío, de oír las enseñanzas&lt;br>
+        Que te hacen divagar de las razones de sabiduría.&lt;br>
+        &lt;small>&lt;b>28&lt;/small>&lt;/b> El testigo perverso se burlará del juicio,&lt;br>
+        Y la boca de los impíos encubrirá la iniquidad.&lt;br>
+        &lt;small>&lt;b>29&lt;/small>&lt;/b> Preparados están juicios para los escarnecedores,&lt;br>
+        Y azotes para las espaldas de los necios.&lt;br>
+
+
+
+    </string>
+    <string name="proverbios20">
+
+        &lt;big>&lt;big>20&lt;/big>&lt;/big> El vino es escarnecedor, la sidra alborotadora,&lt;br>
+        Y cualquiera que por ellos yerra no es sabio.&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> Como rugido de cachorro de león es el terror del rey;&lt;br>
+        El que lo enfurece peca contra sí mismo.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> Honra es del hombre dejar la contienda;&lt;br>
+        Mas todo insensato se envolverá en ella.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> El perezoso no ara a causa del invierno;&lt;br>
+        Pedirá, pues, en la siega, y no hallará.&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> Como aguas profundas es el consejo en el corazón del hombre;&lt;br>
+        Mas el hombre entendido lo alcanzará.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> Muchos hombres proclaman cada uno su propia bondad,&lt;br>
+        Pero hombre de verdad, ¿quién lo hallará?&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> Camina en su integridad el justo;&lt;br>
+        Sus hijos son dichosos después de él.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> El rey que se sienta en el trono de juicio,&lt;br>
+        Con su mirar disipa todo mal.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> ¿Quién podrá decir: Yo he limpiado mi corazón,&lt;br>
+        Limpio estoy de mi pecado?&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> Pesa falsa y medida falsa,&lt;br>
+        Ambas cosas son abominación a Jehová.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> Aun el muchacho es conocido por sus hechos,&lt;br>
+        Si su conducta fuere limpia y recta.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> El oído que oye, y el ojo que ve,&lt;br>
+        Ambas cosas igualmente ha hecho Jehová.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> No ames el sueño, para que no te empobrezcas;&lt;br>
+        Abre tus ojos, y te saciarás de pan.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> El que compra dice: Malo es, malo es;&lt;br>
+        Mas cuando se aparta, se alaba.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> Hay oro y multitud de piedras preciosas;&lt;br>
+        Mas los labios prudentes son joya preciosa.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> Quítale su ropa al que salió por fiador del extraño,&lt;br>
+        Y toma prenda del que sale fiador por los extraños.&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> Sabroso es al hombre el pan de mentira;&lt;br>
+        Pero después su boca será llena de cascajo.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> Los pensamientos con el consejo se ordenan;&lt;br>
+        Y con dirección sabia se hace la guerra.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> El que anda en chismes descubre el secreto;&lt;br>
+        No te entremetas, pues, con el suelto de lengua.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> Al que maldice a su padre o a su madre,&lt;br>
+        Se le apagará su lámpara en oscuridad tenebrosa.&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> Los bienes que se adquieren de prisa al principio,&lt;br>
+        No serán al final bendecidos.&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> No digas: Yo me vengaré;&lt;br>
+        Espera a Jehová, y él te salvará.&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> Abominación son a Jehová las pesas falsas,&lt;br>
+        Y la balanza falsa no es buena.&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> De Jehová son los pasos del hombre;&lt;br>
+        ¿Cómo, pues, entenderá el hombre su camino?&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> Lazo es al hombre hacer apresuradamente voto de consagración,&lt;br>
+        Y después de hacerlo, reflexionar.&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> El rey sabio avienta a los impíos,&lt;br>
+        Y sobre ellos hace rodar la rueda.&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> Lámpara de Jehová es el espíritu del hombre,&lt;br>
+        La cual escudriña lo más profundo del corazón.&lt;br>
+        &lt;small>&lt;b>28&lt;/small>&lt;/b> Misericordia y verdad guardan al rey,&lt;br>
+        Y con clemencia se sustenta su trono.&lt;br>
+        &lt;small>&lt;b>29&lt;/small>&lt;/b> La gloria de los jóvenes es su fuerza,&lt;br>
+        Y la hermosura de los ancianos es su vejez.&lt;br>
+        &lt;small>&lt;b>30&lt;/small>&lt;/b> Los azotes que hieren son medicina para el malo,&lt;br>
+        Y el castigo purifica el corazón.&lt;br>
+
+
+
+    </string>
+    <string name="proverbios21">
+
+        &lt;big>&lt;big>21&lt;/big>&lt;/big> Como los repartimientos de las aguas,&lt;br>
+        Así está el corazón del rey en la mano de Jehová;&lt;br>
+        A todo lo que quiere lo inclina.&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> Todo camino del hombre es recto en su propia opinión;&lt;br>
+        Pero Jehová pesa los corazones.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> Hacer justicia y juicio es a Jehová&lt;br>
+        Más agradable que sacrificio.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> Altivez de ojos, y orgullo de corazón,&lt;br>
+        Y pensamiento de impíos, son pecado.&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> Los pensamientos del diligente ciertamente tienden a la abundancia;&lt;br>
+        Mas todo el que se apresura alocadamente, de cierto va a la pobreza.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> Amontonar tesoros con lengua mentirosa&lt;br>
+        Es aliento fugaz de aquellos que buscan la muerte.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> La rapiña de los impíos los destruirá,&lt;br>
+        Por cuanto no quisieron hacer juicio.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> El camino del hombre perverso es torcido y extraño;&lt;br>
+        Mas los hechos del limpio son rectos.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> Mejor es vivir en un rincón del terrado&lt;br>
+        Que con mujer rencillosa en casa espaciosa.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> El alma del impío desea el mal;&lt;br>
+        Su prójimo no halla favor en sus ojos.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> Cuando el escarnecedor es castigado, el simple se hace sabio;&lt;br>
+        Y cuando se le amonesta al sabio, aprende ciencia.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> Considera el justo la casa del impío,&lt;br>
+        Cómo los impíos son trastornados por el mal.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> El que cierra su oído al clamor del pobre,&lt;br>
+        También él clamará, y no será oído.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> La dádiva en secreto calma el furor,&lt;br>
+        Y el don en el seno, la fuerte ira.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> Alegría es para el justo el hacer juicio;&lt;br>
+        Mas destrucción a los que hacen iniquidad.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> El hombre que se aparta del camino de la sabiduría&lt;br>
+        Vendrá a parar en la compañía de los muertos.&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> Hombre necesitado será el que ama el deleite,&lt;br>
+        Y el que ama el vino y los ungüentos no se enriquecerá.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> Rescate del justo es el impío,&lt;br>
+        Y por los rectos, el prevaricador.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> Mejor es morar en tierra desierta&lt;br>
+        Que con la mujer rencillosa e iracunda.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> Tesoro precioso y aceite hay en la casa del sabio;&lt;br>
+        Mas el hombre insensato todo lo disipa.&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> El que sigue la justicia y la misericordia&lt;br>
+        Hallará la vida, la justicia y la honra.&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> Tomó el sabio la ciudad de los fuertes,&lt;br>
+        Y derribó la fuerza en que ella confiaba.&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> El que guarda su boca y su lengua,&lt;br>
+        Su alma guarda de angustias.&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> Escarnecedor es el nombre del soberbio y presuntuoso&lt;br>
+        Que obra en la insolencia de su presunción.&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> El deseo del perezoso le mata,&lt;br>
+        Porque sus manos no quieren trabajar.&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> Hay quien todo el día codicia;&lt;br>
+        Pero el justo da, y no detiene su mano.&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> El sacrificio de los impíos es abominación;&lt;br>
+        ¡Cuánto más ofreciéndolo con maldad!&lt;br>
+        &lt;small>&lt;b>28&lt;/small>&lt;/b> El testigo mentiroso perecerá;&lt;br>
+        Mas el hombre que oye, permanecerá en su dicho.&lt;br>
+        &lt;small>&lt;b>29&lt;/small>&lt;/b> El hombre impío endurece su rostro;&lt;br>
+        Mas el recto ordena sus caminos.&lt;br>
+        &lt;small>&lt;b>30&lt;/small>&lt;/b> No hay sabiduría, ni inteligencia,&lt;br>
+        Ni consejo, contra Jehová.&lt;br>
+        &lt;small>&lt;b>31&lt;/small>&lt;/b> El caballo se alista para el día de la batalla;&lt;br>
+        Mas Jehová es el que da la victoria.&lt;br>
+
+
+
+    </string>
+    <string name="proverbios22">
+
+        &lt;big>&lt;big>22&lt;/big>&lt;/big> De más estima es el buen nombre que las muchas riquezas,&lt;br>
+        Y la buena fama más que la plata y el oro.&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> El rico y el pobre se encuentran;&lt;br>
+        A ambos los hizo Jehová.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> El avisado ve el mal y se esconde;&lt;br>
+        Mas los simples pasan y reciben el daño.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> Riquezas, honra y vida&lt;br>
+        Son la remuneración de la humildad y del temor de Jehová.&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> Espinos y lazos hay en el camino del perverso;&lt;br>
+        El que guarda su alma se alejará de ellos.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> Instruye al niño en su camino,&lt;br>
+        Y aun cuando fuere viejo no se apartará de él.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> El rico se enseñorea de los pobres,&lt;br>
+        Y el que toma prestado es siervo del que presta.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> El que sembrare iniquidad, iniquidad segará,&lt;br>
+        Y la vara de su insolencia se quebrará.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> El ojo misericordioso será bendito,&lt;br>
+        Porque dio de su pan al indigente.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> Echa fuera al escarnecedor, y saldrá la contienda,&lt;br>
+        Y cesará el pleito y la afrenta.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> El que ama la limpieza de corazón,&lt;br>
+        Por la gracia de sus labios tendrá la amistad del rey.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> Los ojos de Jehová velan por la ciencia;&lt;br>
+        Mas él trastorna las cosas de los prevaricadores.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> Dice el perezoso: El león está fuera;&lt;br>
+        Seré muerto en la calle.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> Fosa profunda es la boca de la mujer extraña;&lt;br>
+        Aquel contra el cual Jehová estuviere airado caerá en ella.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> La necedad está ligada en el corazón del muchacho;&lt;br>
+        Mas la vara de la corrección la alejará de él.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> El que oprime al pobre para aumentar sus ganancias,&lt;br>
+        O que da al rico, ciertamente se empobrecerá.&lt;br>
+
+        &lt;big>&lt;b>Preceptos y amonestaciones&lt;/big>&lt;/b>&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> Inclina tu oído y oye las palabras de los sabios,&lt;br>
+        Y aplica tu corazón a mi sabiduría;&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> Porque es cosa deliciosa, si las guardares dentro de ti;&lt;br>
+        Si juntamente se afirmaren sobre tus labios.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> Para que tu confianza sea en Jehová,&lt;br>
+        Te las he hecho saber hoy a ti también.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> ¿No te he escrito tres veces&lt;br>
+        En consejos y en ciencia,&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> Para hacerte saber la certidumbre de las palabras de verdad,&lt;br>
+        A fin de que vuelvas a llevar palabras de verdad a los que te enviaron?&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> No robes al pobre, porque es pobre,&lt;br>
+        Ni quebrantes en la puerta al afligido;&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> Porque Jehová juzgará la causa de ellos,&lt;br>
+        Y despojará el alma de aquellos que los despojaren.&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> No te entremetas con el iracundo,&lt;br>
+        Ni te acompañes con el hombre de enojos,&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> No sea que aprendas sus maneras,&lt;br>
+        Y tomes lazo para tu alma.&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> No seas de aquellos que se comprometen,&lt;br>
+        Ni de los que salen por fiadores de deudas.&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> Si no tuvieres para pagar,&lt;br>
+        ¿Por qué han de quitar tu cama de debajo de ti?&lt;br>
+        &lt;small>&lt;b>28&lt;/small>&lt;/b> No traspases los linderos antiguos&lt;br>
+        Que pusieron tus padres.&lt;br>
+        &lt;small>&lt;b>29&lt;/small>&lt;/b> ¿Has visto hombre solícito en su trabajo? Delante de los reyes estará;&lt;br>
+        No estará delante de los de baja condición.&lt;br>
+
+
+
+    </string>
+    <string name="proverbios23">
+
+        &lt;big>&lt;big>23&lt;/big>&lt;/big> Cuando te sientes a comer con algún señor,&lt;br>
+        Considera bien lo que está delante de ti,&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> Y pon cuchillo a tu garganta,&lt;br>
+        Si tienes gran apetito.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> No codicies sus manjares delicados,&lt;br>
+        Porque es pan engañoso.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> No te afanes por hacerte rico;&lt;br>
+        Sé prudente, y desiste.&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> ¿Has de poner tus ojos en las riquezas, siendo ningunas?&lt;br>
+        Porque se harán alas&lt;br>
+        Como alas de águila, y volarán al cielo.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> No comas pan con el avaro,&lt;br>
+        Ni codicies sus manjares;&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> Porque cual es su pensamiento en su corazón, tal es él.&lt;br>
+        Come y bebe, te dirá;&lt;br>
+        Mas su corazón no está contigo.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> Vomitarás la parte que comiste,&lt;br>
+        Y perderás tus suaves palabras.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> No hables a oídos del necio,&lt;br>
+        Porque menospreciará la prudencia de tus razones.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> No traspases el lindero antiguo,&lt;br>
+        Ni entres en la heredad de los huérfanos;&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> Porque el defensor de ellos es el Fuerte,&lt;br>
+        El cual juzgará la causa de ellos contra ti.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> Aplica tu corazón a la enseñanza,&lt;br>
+        Y tus oídos a las palabras de sabiduría.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> No rehúses corregir al muchacho;&lt;br>
+        Porque si lo castigas con vara, no morirá.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> Lo castigarás con vara,&lt;br>
+        Y librarás su alma del Seol.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> Hijo mío, si tu corazón fuere sabio,&lt;br>
+        También a mí se me alegrará el corazón;&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> Mis entrañas también se alegrarán&lt;br>
+        Cuando tus labios hablaren cosas rectas.&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> No tenga tu corazón envidia de los pecadores,&lt;br>
+        Antes persevera en el temor de Jehová todo el tiempo;&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> Porque ciertamente hay fin,&lt;br>
+        Y tu esperanza no será cortada.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> Oye, hijo mío, y sé sabio,&lt;br>
+        Y endereza tu corazón al camino.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> No estés con los bebedores de vino,&lt;br>
+        Ni con los comedores de carne;&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> Porque el bebedor y el comilón empobrecerán,&lt;br>
+        Y el sueño hará vestir vestidos rotos.&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> Oye a tu padre, a aquel que te engendró;&lt;br>
+        Y cuando tu madre envejeciere, no la menosprecies.&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> Compra la verdad, y no la vendas;&lt;br>
+        La sabiduría, la enseñanza y la inteligencia.&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> Mucho se alegrará el padre del justo,&lt;br>
+        Y el que engendra sabio se gozará con él.&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> Alégrense tu padre y tu madre,&lt;br>
+        Y gócese la que te dio a luz.&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> Dame, hijo mío, tu corazón,&lt;br>
+        Y miren tus ojos por mis caminos.&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> Porque abismo profundo es la ramera,&lt;br>
+        Y pozo angosto la extraña.&lt;br>
+        &lt;small>&lt;b>28&lt;/small>&lt;/b> También ella, como robador, acecha,&lt;br>
+        Y multiplica entre los hombres los prevaricadores.&lt;br>
+        &lt;small>&lt;b>29&lt;/small>&lt;/b> ¿Para quién será el ay?&lt;br>
+        ¿Para quién el dolor?&lt;br>
+        ¿Para quién las rencillas?&lt;br>
+        ¿Para quién las quejas?&lt;br>
+        ¿Para quién las heridas en balde?&lt;br>
+        ¿Para quién lo amoratado de los ojos?&lt;br>
+        &lt;small>&lt;b>30&lt;/small>&lt;/b> Para los que se detienen mucho en el vino,&lt;br>
+        Para los que van buscando la mistura.&lt;br>
+        &lt;small>&lt;b>31&lt;/small>&lt;/b> No mires al vino cuando rojea,&lt;br>
+        Cuando resplandece su color en la copa.&lt;br>
+        Se entra suavemente;&lt;br>
+        &lt;small>&lt;b>32&lt;/small>&lt;/b> Mas al fin como serpiente morderá,&lt;br>
+        Y como áspid dará dolor.&lt;br>
+        &lt;small>&lt;b>33&lt;/small>&lt;/b> Tus ojos mirarán cosas extrañas,&lt;br>
+        Y tu corazón hablará perversidades.&lt;br>
+        &lt;small>&lt;b>34&lt;/small>&lt;/b> Serás como el que yace en medio del mar,&lt;br>
+        O como el que está en la punta de un mastelero.&lt;br>
+        &lt;small>&lt;b>35&lt;/small>&lt;/b> Y dirás: Me hirieron, mas no me dolió;&lt;br>
+        Me azotaron, mas no lo sentí;&lt;br>
+        Cuando despertare, aún lo volveré a buscar.&lt;br>
+
+
+
+    </string>
+    <string name="proverbios24">
+
+        &lt;big>&lt;big>24&lt;/big>&lt;/big> No tengas envidia de los hombres malos,&lt;br>
+        Ni desees estar con ellos;&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> Porque su corazón piensa en robar,&lt;br>
+        E iniquidad hablan sus labios.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> Con sabiduría se edificará la casa,&lt;br>
+        Y con prudencia se afirmará;&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> Y con ciencia se llenarán las cámaras&lt;br>
+        De todo bien preciado y agradable.&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> El hombre sabio es fuerte,&lt;br>
+        Y de pujante vigor el hombre docto.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> Porque con ingenio harás la guerra,&lt;br>
+        Y en la multitud de consejeros está la victoria.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> Alta está para el insensato la sabiduría;&lt;br>
+        En la puerta no abrirá él su boca.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> Al que piensa hacer el mal,&lt;br>
+        Le llamarán hombre de malos pensamientos.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> El pensamiento del necio es pecado,&lt;br>
+        Y abominación a los hombres el escarnecedor.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> Si fueres flojo en el día de trabajo,&lt;br>
+        Tu fuerza será reducida.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> Libra a los que son llevados a la muerte;&lt;br>
+        Salva a los que están en peligro de muerte.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> Porque si dijeres: Ciertamente no lo supimos,&lt;br>
+        ¿Acaso no lo entenderá el que pesa los corazones?&lt;br>
+        El que mira por tu alma, él lo conocerá,&lt;br>
+        Y dará al hombre según sus obras.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> Come, hijo mío, de la miel, porque es buena,&lt;br>
+        Y el panal es dulce a tu paladar.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> Así será a tu alma el conocimiento de la sabiduría;&lt;br>
+        Si la hallares tendrás recompensa,&lt;br>
+        Y al fin tu esperanza no será cortada.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> Oh impío, no aceches la tienda del justo,&lt;br>
+        No saquees su cámara;&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> Porque siete veces cae el justo, y vuelve a levantarse;&lt;br>
+        Mas los impíos caerán en el mal.&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> Cuando cayere tu enemigo, no te regocijes,&lt;br>
+        Y cuando tropezare, no se alegre tu corazón;&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> No sea que Jehová lo mire, y le desagrade,&lt;br>
+        Y aparte de sobre él su enojo.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> No te entremetas con los malignos,&lt;br>
+        Ni tengas envidia de los impíos;&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> Porque para el malo no habrá buen fin,&lt;br>
+        Y la lámpara de los impíos será apagada.&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> Teme a Jehová, hijo mío, y al rey;&lt;br>
+        No te entremetas con los veleidosos;&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> Porque su quebrantamiento vendrá de repente;&lt;br>
+        Y el quebrantamiento de ambos,&lt;br>
+        ¿quién lo comprende?&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> También estos son dichos de los sabios:&lt;br>
+        Hacer acepción de personas en el juicio no es bueno.&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> El que dijere al malo: Justo eres,&lt;br>
+        Los pueblos lo maldecirán, y le detestarán las naciones;&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> Mas los que lo reprendieren tendrán felicidad,&lt;br>
+        Y sobre ellos vendrá gran bendición.&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> Besados serán los labios&lt;br>
+        Del que responde palabras rectas.&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> Prepara tus labores fuera,&lt;br>
+        Y disponlas en tus campos,&lt;br>
+        Y después edificarás tu casa.&lt;br>
+        &lt;small>&lt;b>28&lt;/small>&lt;/b> No seas sin causa testigo contra tu prójimo,&lt;br>
+        Y no lisonjees con tus labios.&lt;br>
+        &lt;small>&lt;b>29&lt;/small>&lt;/b> No digas: Como me hizo, así le haré;&lt;br>
+        Daré el pago al hombre según su obra.&lt;br>
+        &lt;small>&lt;b>30&lt;/small>&lt;/b> Pasé junto al campo del hombre perezoso,&lt;br>
+        Y junto a la viña del hombre falto de entendimiento;&lt;br>
+        &lt;small>&lt;b>31&lt;/small>&lt;/b> Y he aquí que por toda ella habían crecido los espinos,&lt;br>
+        Ortigas habían ya cubierto su faz,&lt;br>
+        Y su cerca de piedra estaba ya destruida.&lt;br>
+        &lt;small>&lt;b>32&lt;/small>&lt;/b> Miré, y lo puse en mi corazón;&lt;br>
+        Lo vi, y tomé consejo.&lt;br>
+        &lt;small>&lt;b>33&lt;/small>&lt;/b> Un poco de sueño, cabeceando otro poco,&lt;br>
+        Poniendo mano sobre mano otro poco para dormir;&lt;br>
+        &lt;small>&lt;b>34&lt;/small>&lt;/b> Así vendrá como caminante tu necesidad,&lt;br>
+        Y tu pobreza como hombre armado.&lt;br>
+
+
+
+    </string>
+    <string name="proverbios25">
+
+        &lt;big>&lt;b>Comparaciones y lecciones morales&lt;/big>&lt;/b>&lt;br>
+
+        &lt;big>&lt;big>25&lt;/big>&lt;/big> También estos son proverbios de Salomón, los cuales copiaron los varones de Ezequías, rey de Judá:&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> Gloria de Dios es encubrir un asunto;&lt;br>
+        Pero honra del rey es escudriñarlo.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> Para la altura de los cielos, y para la profundidad de la tierra,&lt;br>
+        Y para el corazón de los reyes, no hay investigación.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> Quita las escorias de la plata,&lt;br>
+        Y saldrá alhaja al fundidor.&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> Aparta al impío de la presencia del rey,&lt;br>
+        Y su trono se afirmará en justicia.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> No te alabes delante del rey,&lt;br>
+        Ni estés en el lugar de los grandes;&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> Porque mejor es que se te diga: Sube acá,&lt;br>
+        Y no que seas humillado delante del príncipe&lt;br>
+        A quien han mirado tus ojos.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> No entres apresuradamente en pleito,&lt;br>
+        No sea que no sepas qué hacer al fin,&lt;br>
+        Después que tu prójimo te haya avergonzado.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> Trata tu causa con tu compañero,&lt;br>
+        Y no descubras el secreto a otro,&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> No sea que te deshonre el que lo oyere,&lt;br>
+        Y tu infamia no pueda repararse.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> Manzana de oro con figuras de plata&lt;br>
+        Es la palabra dicha como conviene.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> Como zarcillo de oro y joyel de oro fino&lt;br>
+        Es el que reprende al sabio que tiene oído dócil.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> Como frío de nieve en tiempo de la siega,&lt;br>
+        Así es el mensajero fiel a los que lo envían,&lt;br>
+        Pues al alma de su señor da refrigerio.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> Como nubes y vientos sin lluvia,&lt;br>
+        Así es el hombre que se jacta de falsa liberalidad.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> Con larga paciencia se aplaca el príncipe,&lt;br>
+        Y la lengua blanda quebranta los huesos.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> ¿Hallaste miel? Come lo que te basta,&lt;br>
+        No sea que hastiado de ella la vomites.&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> Detén tu pie de la casa de tu vecino,&lt;br>
+        No sea que hastiado de ti te aborrezca.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> Martillo y cuchillo y saeta aguda&lt;br>
+        Es el hombre que habla contra su prójimo falso testimonio.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> Como diente roto y pie descoyuntado&lt;br>
+        Es la confianza en el prevaricador en tiempo de angustia.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> El que canta canciones al corazón afligido&lt;br>
+        Es como el que quita la ropa en tiempo de frío, o el que sobre el jabón echa vinagre.&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> Si el que te aborrece tuviere hambre, dale de comer pan,&lt;br>
+        Y si tuviere sed, dale de beber agua;&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> Porque ascuas amontonarás sobre su cabeza,&lt;br>
+        Y Jehová te lo pagará.&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> El viento del norte ahuyenta la lluvia,&lt;br>
+        Y el rostro airado la lengua detractora.&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> Mejor es estar en un rincón del terrado,&lt;br>
+        Que con mujer rencillosa en casa espaciosa.&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> Como el agua fría al alma sedienta,&lt;br>
+        Así son las buenas nuevas de lejanas tierras.&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> Como fuente turbia y manantial corrompido,&lt;br>
+        Es el justo que cae delante del impío.&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> Comer mucha miel no es bueno,&lt;br>
+        Ni el buscar la propia gloria es gloria.&lt;br>
+        &lt;small>&lt;b>28&lt;/small>&lt;/b> Como ciudad derribada y sin muro&lt;br>
+        Es el hombre cuyo espíritu no tiene rienda.&lt;br>
+
+
+
+    </string>
+    <string name="proverbios26">
+
+        &lt;big>&lt;big>26&lt;/big>&lt;/big> Como no conviene la nieve en el verano, ni la lluvia en la siega,&lt;br>
+        Así no conviene al necio la honra.&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> Como el gorrión en su vagar, y como la golondrina en su vuelo,&lt;br>
+        Así la maldición nunca vendrá sin causa.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> El látigo para el caballo, el cabestro para el asno,&lt;br>
+        Y la vara para la espalda del necio.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> Nunca respondas al necio de acuerdo con su necedad,&lt;br>
+        Para que no seas tú también como él.&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> Responde al necio como merece su necedad,&lt;br>
+        Para que no se estime sabio en su propia opinión.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> Como el que se corta los pies y bebe su daño,&lt;br>
+        Así es el que envía recado por mano de un necio.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> Las piernas del cojo penden inútiles;&lt;br>
+        Así es el proverbio en la boca del necio.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> Como quien liga la piedra en la honda,&lt;br>
+        Así hace el que da honra al necio.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> Espinas hincadas en mano del embriagado,&lt;br>
+        Tal es el proverbio en la boca de los necios.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> Como arquero que a todos hiere,&lt;br>
+        Es el que toma a sueldo insensatos y vagabundos.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> Como perro que vuelve a su vómito,&lt;br>
+        Así es el necio que repite su necedad.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> ¿Has visto hombre sabio en su propia opinión?&lt;br>
+        Más esperanza hay del necio que de él.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> Dice el perezoso: El león está en el camino;&lt;br>
+        El león está en las calles.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> Como la puerta gira sobre sus quicios,&lt;br>
+        Así el perezoso se vuelve en su cama.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> Mete el perezoso su mano en el plato;&lt;br>
+        Se cansa de llevarla a su boca.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> En su propia opinión el perezoso es más sabio&lt;br>
+        Que siete que sepan aconsejar.&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> El que pasando se deja llevar de la ira en pleito ajeno&lt;br>
+        Es como el que toma al perro por las orejas.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> Como el que enloquece, y echa llamas&lt;br>
+        Y saetas y muerte,&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> Tal es el hombre que engaña a su amigo,&lt;br>
+        Y dice: Ciertamente lo hice por broma.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> Sin leña se apaga el fuego,&lt;br>
+        Y donde no hay chismoso, cesa la contienda.&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> El carbón para brasas, y la leña para el fuego;&lt;br>
+        Y el hombre rencilloso para encender contienda.&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> Las palabras del chismoso son como bocados suaves,&lt;br>
+        Y penetran hasta las entrañas.&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> Como escoria de plata echada sobre el tiesto&lt;br>
+        Son los labios lisonjeros y el corazón malo.&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> El que odia disimula con sus labios;&lt;br>
+        Mas en su interior maquina engaño.&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> Cuando hablare amigablemente, no le creas;&lt;br>
+        Porque siete abominaciones hay en su corazón.&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> Aunque su odio se cubra con disimulo,&lt;br>
+        Su maldad será descubierta en la congregación.&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> El que cava foso caerá en él;&lt;br>
+        Y al que revuelve la piedra, sobre él le volverá.&lt;br>
+        &lt;small>&lt;b>28&lt;/small>&lt;/b> La lengua falsa atormenta al que ha lastimado,&lt;br>
+        Y la boca lisonjera hace resbalar.&lt;br>
+
+
+
+    </string>
+    <string name="proverbios27">
+
+        &lt;big>&lt;big>27&lt;/big>&lt;/big> No te jactes del día de mañana;&lt;br>
+        Porque no sabes qué dará de sí el día.&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> Alábete el extraño, y no tu propia boca;&lt;br>
+        El ajeno, y no los labios tuyos.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> Pesada es la piedra, y la arena pesa;&lt;br>
+        Mas la ira del necio es más pesada que ambas.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> Cruel es la ira, e impetuoso el furor;&lt;br>
+        Mas ¿quién podrá sostenerse delante de la envidia?&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> Mejor es reprensión manifiesta&lt;br>
+        Que amor oculto.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> Fieles son las heridas del que ama;&lt;br>
+        Pero importunos los besos del que aborrece.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> El hombre saciado desprecia el panal de miel;&lt;br>
+        Pero al hambriento todo lo amargo es dulce.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> Cual ave que se va de su nido,&lt;br>
+        Tal es el hombre que se va de su lugar.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> El ungüento y el perfume alegran el corazón,&lt;br>
+        Y el cordial consejo del amigo, al hombre.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> No dejes a tu amigo, ni al amigo de tu padre;&lt;br>
+        Ni vayas a la casa de tu hermano en el día de tu aflicción.&lt;br>
+        Mejor es el vecino cerca que el hermano lejos.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> Sé sabio, hijo mío, y alegra mi corazón,&lt;br>
+        Y tendré qué responder al que me agravie.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> El avisado ve el mal y se esconde;&lt;br>
+        Mas los simples pasan y llevan el daño.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> Quítale su ropa al que salió fiador por el extraño;&lt;br>
+        Y al que fía a la extraña, tómale prenda.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> El que bendice a su amigo en alta voz, madrugando de mañana,&lt;br>
+        Por maldición se le contará.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> Gotera continua en tiempo de lluvia&lt;br>
+        Y la mujer rencillosa, son semejantes;&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> Pretender contenerla es como refrenar el viento,&lt;br>
+        O sujetar el aceite en la mano derecha.&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> Hierro con hierro se aguza;&lt;br>
+        Y así el hombre aguza el rostro de su amigo.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> Quien cuida la higuera comerá su fruto,&lt;br>
+        Y el que mira por los intereses de su señor, tendrá honra.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> Como en el agua el rostro corresponde al rostro,&lt;br>
+        Así el corazón del hombre al del hombre.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> El Seol y el Abadón nunca se sacian;&lt;br>
+        Así los ojos del hombre nunca están satisfechos.&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> El crisol prueba la plata, y la hornaza el oro,&lt;br>
+        Y al hombre la boca del que lo alaba.&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> Aunque majes al necio en un mortero entre granos de trigo majados con el pisón,&lt;br>
+        No se apartará de él su necedad.&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> Sé diligente en conocer el estado de tus ovejas,&lt;br>
+        Y mira con cuidado por tus rebaños;&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> Porque las riquezas no duran para siempre;&lt;br>
+        ¿Y será la corona para perpetuas generaciones?&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> Saldrá la grama, aparecerá la hierba,&lt;br>
+        Y se segarán las hierbas de los montes.&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> Los corderos son para tus vestidos,&lt;br>
+        Y los cabritos para el precio del campo;&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> Y abundancia de leche de las cabras para tu mantenimiento, para mantenimiento de tu casa,&lt;br>
+        Y para sustento de tus criadas.&lt;br>
+
+
+
+    </string>
+    <string name="proverbios28">
+
+        &lt;big>&lt;b>Proverbios antitéticos&lt;/big>&lt;/b>&lt;br>
+
+        &lt;big>&lt;big>28&lt;/big>&lt;/big> Huye el impío sin que nadie lo persiga;&lt;br>
+        Mas el justo está confiado como un león.&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> Por la rebelión de la tierra sus príncipes son muchos;&lt;br>
+        Mas por el hombre entendido y sabio permanece estable.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> El hombre pobre y robador de los pobres&lt;br>
+        Es como lluvia torrencial que deja sin pan.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> Los que dejan la ley alaban a los impíos;&lt;br>
+        Mas los que la guardan contenderán con ellos.&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> Los hombres malos no entienden el juicio;&lt;br>
+        Mas los que buscan a Jehová entienden todas las cosas.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> Mejor es el pobre que camina en su integridad,&lt;br>
+        Que el de perversos caminos y rico.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> El que guarda la ley es hijo prudente;&lt;br>
+        Mas el que es compañero de glotones avergüenza a su padre.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> El que aumenta sus riquezas con usura y crecido interés,&lt;br>
+        Para aquel que se compadece de los pobres las aumenta.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> El que aparta su oído para no oír la ley,&lt;br>
+        Su oración también es abominable.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> El que hace errar a los rectos por el mal camino,&lt;br>
+        El caerá en su misma fosa;&lt;br>
+        Mas los perfectos heredarán el bien.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> El hombre rico es sabio en su propia opinión;&lt;br>
+        Mas el pobre entendido lo escudriña.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> Cuando los justos se alegran, grande es la gloria;&lt;br>
+        Mas cuando se levantan los impíos, tienen que esconderse los hombres.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> El que encubre sus pecados no prosperará;&lt;br>
+        Mas el que los confiesa y se aparta alcanzará misericordia.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> Bienaventurado el hombre que siempre teme a Dios;&lt;br>
+        Mas el que endurece su corazón caerá en el mal.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> León rugiente y oso hambriento&lt;br>
+        Es el príncipe impío sobre el pueblo pobre.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> El príncipe falto de entendimiento multiplicará la extorsión;&lt;br>
+        Mas el que aborrece la avaricia prolongará sus días.&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> El hombre cargado de la sangre de alguno&lt;br>
+        Huirá hasta el sepulcro, y nadie le detendrá.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> El que en integridad camina será salvo;&lt;br>
+        Mas el de perversos caminos caerá en alguno.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> El que labra su tierra se saciará de pan;&lt;br>
+        Mas el que sigue a los ociosos se llenará de pobreza.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> El hombre de verdad tendrá muchas bendiciones;&lt;br>
+        Mas el que se apresura a enriquecerse no será sin culpa.&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> Hacer acepción de personas no es bueno;&lt;br>
+        Hasta por un bocado de pan prevaricará el hombre.&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> Se apresura a ser rico el avaro,&lt;br>
+        Y no sabe que le ha de venir pobreza.&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> El que reprende al hombre, hallará después mayor gracia&lt;br>
+        Que el que lisonjea con la lengua.&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> El que roba a su padre o a su madre, y dice que no es maldad,&lt;br>
+        Compañero es del hombre destruidor.&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> El altivo de ánimo suscita contiendas;&lt;br>
+        Mas el que confía en Jehová prosperará.&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> El que confía en su propio corazón es necio;&lt;br>
+        Mas el que camina en sabiduría será librado.&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> El que da al pobre no tendrá pobreza;&lt;br>
+        Mas el que aparta sus ojos tendrá muchas maldiciones.&lt;br>
+        &lt;small>&lt;b>28&lt;/small>&lt;/b> Cuando los impíos son levantados se esconde el hombre;&lt;br>
+        Mas cuando perecen, los justos se multiplican.&lt;br>
+
+
+
+    </string>
+    <string name="proverbios29">
+
+        &lt;big>&lt;big>29&lt;/big>&lt;/big> El hombre que reprendido endurece la cerviz,&lt;br>
+        De repente será quebrantado, y no habrá para él medicina.&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> Cuando los justos dominan, el pueblo se alegra;&lt;br>
+        Mas cuando domina el impío, el pueblo gime.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> El hombre que ama la sabiduría alegra a su padre;&lt;br>
+        Mas el que frecuenta rameras perderá los bienes.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> El rey con el juicio afirma la tierra;&lt;br>
+        Mas el que exige presentes la destruye.&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> El hombre que lisonjea a su prójimo,&lt;br>
+        Red tiende delante de sus pasos.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> En la transgresión del hombre malo hay lazo;&lt;br>
+        Mas el justo cantará y se alegrará.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> Conoce el justo la causa de los pobres;&lt;br>
+        Mas el impío no entiende sabiduría.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> Los hombres escarnecedores ponen la ciudad en llamas;&lt;br>
+        Mas los sabios apartan la ira.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> Si el hombre sabio contendiere con el necio,&lt;br>
+        Que se enoje o que se ría, no tendrá reposo.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> Los hombres sanguinarios aborrecen al perfecto,&lt;br>
+        Mas los rectos buscan su contentamiento.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> El necio da rienda suelta a toda su ira,&lt;br>
+        Mas el sabio al fin la sosiega.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> Si un gobernante atiende la palabra mentirosa,&lt;br>
+        Todos sus servidores serán impíos.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> El pobre y el usurero se encuentran;&lt;br>
+        Jehová alumbra los ojos de ambos.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> Del rey que juzga con verdad a los pobres,&lt;br>
+        El trono será firme para siempre.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> La vara y la corrección dan sabiduría;&lt;br>
+        Mas el muchacho consentido avergonzará a su madre.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> Cuando los impíos son muchos, mucha es la transgresión;&lt;br>
+        Mas los justos verán la ruina de ellos.&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> Corrige a tu hijo, y te dará descanso,&lt;br>
+        Y dará alegría a tu alma.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> Sin profecía el pueblo se desenfrena;&lt;br>
+        Mas el que guarda la ley es bienaventurado.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> El siervo no se corrige con palabras;&lt;br>
+        Porque entiende, mas no hace caso.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> ¿Has visto hombre ligero en sus palabras?&lt;br>
+        Más esperanza hay del necio que de él.&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> El siervo mimado desde la niñez por su amo,&lt;br>
+        A la postre será su heredero.&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> El hombre iracundo levanta contiendas,&lt;br>
+        Y el furioso muchas veces peca.&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> La soberbia del hombre le abate;&lt;br>
+        Pero al humilde de espíritu sustenta la honra.&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> El cómplice del ladrón aborrece su propia alma;&lt;br>
+        Pues oye la imprecación y no dice nada.&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> El temor del hombre pondrá lazo;&lt;br>
+        Mas el que confía en Jehová será exaltado.&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> Muchos buscan el favor del príncipe;&lt;br>
+        Mas de Jehová viene el juicio de cada uno.&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> Abominación es a los justos el hombre inicuo;&lt;br>
+        Y abominación es al impío el de caminos rectos.&lt;br>
+
+
+
+    </string>
+    <string name="proverbios30">
+
+        &lt;big>&lt;b>Las palabras de Agur&lt;/big>&lt;/b>&lt;br>
+
+        &lt;big>&lt;big>30&lt;/big>&lt;/big> Palabras de Agur, hijo de Jaqué; la profecía que dijo el varón a Itiel, a Itiel y a Ucal.&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> Ciertamente más rudo soy yo que ninguno,&lt;br>
+        Ni tengo entendimiento de hombre.&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> Yo ni aprendí sabiduría,&lt;br>
+        Ni conozco la ciencia del Santo.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> ¿Quién subió al cielo, y descendió?&lt;br>
+        ¿Quién encerró los vientos en sus puños?&lt;br>
+        ¿Quién ató las aguas en un paño?&lt;br>
+        ¿Quién afirmó todos los términos de la tierra?&lt;br>
+        ¿Cuál es su nombre, y el nombre de su hijo, si sabes?&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> Toda palabra de Dios es limpia;&lt;br>
+        El es escudo a los que en él esperan.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> No añadas a sus palabras, para que no te reprenda,&lt;br>
+        Y seas hallado mentiroso.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> Dos cosas te he demandado;&lt;br>
+        No me las niegues antes que muera:&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> Vanidad y palabra mentirosa aparta de mí;&lt;br>
+        No me des pobreza ni riquezas;&lt;br>
+        Manténme del pan necesario;&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> No sea que me sacie, y te niegue, y diga: ¿Quién es Jehová?&lt;br>
+        O que siendo pobre, hurte,&lt;br>
+        Y blasfeme el nombre de mi Dios.&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> No acuses al siervo ante su señor,&lt;br>
+        No sea que te maldiga, y lleves el castigo.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> Hay generación que maldice a su padre&lt;br>
+        Y a su madre no bendice.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> Hay generación limpia en su propia opinión,&lt;br>
+        Si bien no se ha limpiado de su inmundicia.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> Hay generación cuyos ojos son altivos&lt;br>
+        Y cuyos párpados están levantados en alto.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> Hay generación cuyos dientes son espadas, y sus muelas cuchillos,&lt;br>
+        Para devorar a los pobres de la tierra, y a los menesterosos de entre los hombres.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> La sanguijuela tiene dos hijas que dicen: ¡Dame! ¡dame!&lt;br>
+        Tres cosas hay que nunca se sacian;&lt;br>
+        Aun la cuarta nunca dice: ¡Basta!&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> El Seol, la matriz estéril,&lt;br>
+        La tierra que no se sacia de aguas,&lt;br>
+        Y el fuego que jamás dice: ¡Basta!&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> El ojo que escarnece a su padre&lt;br>
+        Y menosprecia la enseñanza de la madre,&lt;br>
+        Los cuervos de la cañada lo saquen,&lt;br>
+        Y lo devoren los hijos del águila.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> Tres cosas me son ocultas;&lt;br>
+        Aun tampoco sé la cuarta:&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> El rastro del águila en el aire;&lt;br>
+        El rastro de la culebra sobre la peña;&lt;br>
+        El rastro de la nave en medio del mar;&lt;br>
+        Y el rastro del hombre en la doncella.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> El proceder de la mujer adúltera es así:&lt;br>
+        Come, y limpia su boca&lt;br>
+        Y dice: No he hecho maldad.&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> Por tres cosas se alborota la tierra,&lt;br>
+        Y la cuarta ella no puede sufrir:&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> Por el siervo cuando reina;&lt;br>
+        Por el necio cuando se sacia de pan;&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> Por la mujer odiada cuando se casa;&lt;br>
+        Y por la sierva cuando hereda a su señora.&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> Cuatro cosas son de las más pequeñas de la tierra,&lt;br>
+        Y las mismas son más sabias que los sabios:&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> Las hormigas, pueblo no fuerte,&lt;br>
+        Y en el verano preparan su comida;&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> Los conejos, pueblo nada esforzado,&lt;br>
+        Y ponen su casa en la piedra;&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> Las langostas, que no tienen rey,&lt;br>
+        Y salen todas por cuadrillas;&lt;br>
+        &lt;small>&lt;b>28&lt;/small>&lt;/b> La araña que atrapas con la mano,&lt;br>
+        Y está en palacios de rey.&lt;br>
+        &lt;small>&lt;b>29&lt;/small>&lt;/b> Tres cosas hay de hermoso andar,&lt;br>
+        Y la cuarta pasea muy bien:&lt;br>
+        &lt;small>&lt;b>30&lt;/small>&lt;/b> El león, fuerte entre todos los animales,&lt;br>
+        Que no vuelve atrás por nada;&lt;br>
+        &lt;small>&lt;b>31&lt;/small>&lt;/b> El ceñido de lomos; asimismo el macho cabrío;&lt;br>
+        Y el rey, a quien nadie resiste.&lt;br>
+        &lt;small>&lt;b>32&lt;/small>&lt;/b> Si neciamente has procurado enaltecerte,&lt;br>
+        O si has pensado hacer mal,&lt;br>
+        Pon el dedo sobre tu boca.&lt;br>
+        &lt;small>&lt;b>33&lt;/small>&lt;/b> Ciertamente el que bate la leche sacará mantequilla,&lt;br>
+        Y el que recio se suena las narices sacará sangre;&lt;br>
+        Y el que provoca la ira causará contienda.&lt;br>
+
+
+
+    </string>
+    <string name="proverbios31">
+
+        &lt;big>&lt;b>Exhortación a un rey&lt;/big>&lt;/b>&lt;br>
+
+        &lt;big>&lt;big>31&lt;/big>&lt;/big> Palabras del rey Lemuel; la profecía con que le enseñó su madre.&lt;br>
+        &lt;small>&lt;b>2&lt;/small>&lt;/b> ¿Qué, hijo mío? ¿y qué, hijo de mi vientre?&lt;br>
+        ¿Y qué, hijo de mis deseos?&lt;br>
+        &lt;small>&lt;b>3&lt;/small>&lt;/b> No des a las mujeres tu fuerza,&lt;br>
+        Ni tus caminos a lo que destruye a los reyes.&lt;br>
+        &lt;small>&lt;b>4&lt;/small>&lt;/b> No es de los reyes, oh Lemuel, no es de los reyes beber vino,&lt;br>
+        Ni de los príncipes la sidra;&lt;br>
+        &lt;small>&lt;b>5&lt;/small>&lt;/b> No sea que bebiendo olviden la ley,&lt;br>
+        Y perviertan el derecho de todos los afligidos.&lt;br>
+        &lt;small>&lt;b>6&lt;/small>&lt;/b> Dad la sidra al desfallecido,&lt;br>
+        Y el vino a los de amargado ánimo.&lt;br>
+        &lt;small>&lt;b>7&lt;/small>&lt;/b> Beban, y olvídense de su necesidad,&lt;br>
+        Y de su miseria no se acuerden más.&lt;br>
+        &lt;small>&lt;b>8&lt;/small>&lt;/b> Abre tu boca por el mudo&lt;br>
+        En el juicio de todos los desvalidos.&lt;br>
+        &lt;small>&lt;b>9&lt;/small>&lt;/b> Abre tu boca, juzga con justicia,&lt;br>
+        Y defiende la causa del pobre y del menesteroso.&lt;br>
+
+        &lt;big>&lt;b>Elogio de la mujer virtuosa&lt;/big>&lt;/b>&lt;br>
+        &lt;small>&lt;b>10&lt;/small>&lt;/b> Mujer virtuosa, ¿quién la hallará?&lt;br>
+        Porque su estima sobrepasa largamente a la de las piedras preciosas.&lt;br>
+        &lt;small>&lt;b>11&lt;/small>&lt;/b> El corazón de su marido está en ella confiado,&lt;br>
+        Y no carecerá de ganancias.&lt;br>
+        &lt;small>&lt;b>12&lt;/small>&lt;/b> Le da ella bien y no mal&lt;br>
+        Todos los días de su vida.&lt;br>
+        &lt;small>&lt;b>13&lt;/small>&lt;/b> Busca lana y lino,&lt;br>
+        Y con voluntad trabaja con sus manos.&lt;br>
+        &lt;small>&lt;b>14&lt;/small>&lt;/b> Es como nave de mercader;&lt;br>
+        Trae su pan de lejos.&lt;br>
+        &lt;small>&lt;b>15&lt;/small>&lt;/b> Se levanta aun de noche&lt;br>
+        Y da comida a su familia&lt;br>
+        Y ración a sus criadas.&lt;br>
+        &lt;small>&lt;b>16&lt;/small>&lt;/b> Considera la heredad, y la compra,&lt;br>
+        Y planta viña del fruto de sus manos.&lt;br>
+        &lt;small>&lt;b>17&lt;/small>&lt;/b> Ciñe de fuerza sus lomos,&lt;br>
+        Y esfuerza sus brazos.&lt;br>
+        &lt;small>&lt;b>18&lt;/small>&lt;/b> Ve que van bien sus negocios;&lt;br>
+        Su lámpara no se apaga de noche.&lt;br>
+        &lt;small>&lt;b>19&lt;/small>&lt;/b> Aplica su mano al huso,&lt;br>
+        Y sus manos a la rueca.&lt;br>
+        &lt;small>&lt;b>20&lt;/small>&lt;/b> Alarga su mano al pobre,&lt;br>
+        Y extiende sus manos al menesteroso.&lt;br>
+        &lt;small>&lt;b>21&lt;/small>&lt;/b> No tiene temor de la nieve por su familia,&lt;br>
+        Porque toda su familia está vestida de ropas dobles.&lt;br>
+        &lt;small>&lt;b>22&lt;/small>&lt;/b> Ella se hace tapices;&lt;br>
+        De lino fino y púrpura es su vestido.&lt;br>
+        &lt;small>&lt;b>23&lt;/small>&lt;/b> Su marido es conocido en las puertas,&lt;br>
+        Cuando se sienta con los ancianos de la tierra.&lt;br>
+        &lt;small>&lt;b>24&lt;/small>&lt;/b> Hace telas, y vende,&lt;br>
+        Y da cintas al mercader.&lt;br>
+        &lt;small>&lt;b>25&lt;/small>&lt;/b> Fuerza y honor son su vestidura;&lt;br>
+        Y se ríe de lo por venir.&lt;br>
+        &lt;small>&lt;b>26&lt;/small>&lt;/b> Abre su boca con sabiduría,&lt;br>
+        Y la ley de clemencia está en su lengua.&lt;br>
+        &lt;small>&lt;b>27&lt;/small>&lt;/b> Considera los caminos de su casa,&lt;br>
+        Y no come el pan de balde.&lt;br>
+        &lt;small>&lt;b>28&lt;/small>&lt;/b> Se levantan sus hijos y la llaman bienaventurada;&lt;br>
+        Y su marido también la alaba:&lt;br>
+        &lt;small>&lt;b>29&lt;/small>&lt;/b> Muchas mujeres hicieron el bien;&lt;br>
+        Mas tú sobrepasas a todas.&lt;br>
+        &lt;small>&lt;b>30&lt;/small>&lt;/b> Engañosa es la gracia, y vana la hermosura;&lt;br>
+        La mujer que teme a Jehová, ésa será alabada.&lt;br>
+        &lt;small>&lt;b>31&lt;/small>&lt;/b> Dadle del fruto de sus manos,&lt;br>
+        Y alábenla en las puertas sus hechos.&lt;br>
+
+
+    </string>
+
+</resources>

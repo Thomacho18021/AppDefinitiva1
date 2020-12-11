@@ -1,43 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="segundaCronicas1">        </string>
-    <string name="segundaCronicas2">        </string>
-    <string name="segundaCronicas3">        </string>
-    <string name="segundaCronicas4">        </string>
-    <string name="segundaCronicas5">        </string>
-    <string name="segundaCronicas6">        </string>
-    <string name="segundaCronicas7">        </string>
-    <string name="segundaCronicas8">        </string>
-    <string name="segundaCronicas9">        </string>
-    <string name="segundaCronicas10">       </string>
-    <string name="segundaCronicas11">       </string>
-    <string name="segundaCronicas12">       </string>
-    <string name="segundaCronicas13">       </string>
-    <string name="segundaCronicas14">       </string>
-    <string name="segundaCronicas15">       </string>
-    <string name="segundaCronicas16">       </string>
-    <string name="segundaCronicas17">       </string>
-    <string name="segundaCronicas18">       </string>
-    <string name="segundaCronicas19">       </string>
-    <string name="segundaCronicas20">       </string>
-    <string name="segundaCronicas21">       </string>
-    <string name="segundaCronicas22">       </string>
-    <string name="segundaCronicas23">       </string>
-    <string name="segundaCronicas24">       </string>
-    <string name="segundaCronicas25">       </string>
-    <string name="segundaCronicas26">       </string>
-    <string name="segundaCronicas27">       </string>
-    <string name="segundaCronicas28">       </string>
-    <string name="segundaCronicas29">       </string>
-    <string name="segundaCronicas30">       </string>
-    <string name="segundaCronicas31">       </string>
-    <string name="segundaCronicas32">       </string>
-    <string name="segundaCronicas33">       </string>
-    <string name="segundaCronicas34">       </string>
-    <string name="segundaCronicas35">       </string>
-    <string name="segundaCronicas36">       </string>
-
     <string name="job1">                    </string>
     <string name="job2">                    </string>
     <string name="job3">                    </string>
@@ -231,38 +194,6 @@
     <string name="salmos148">               </string>
     <string name="salmos149">               </string>
     <string name="salmos150">               </string>
-
-    <string name="proverbios1">             </string>
-    <string name="proverbios2">             </string>
-    <string name="proverbios3">             </string>
-    <string name="proverbios4">             </string>
-    <string name="proverbios5">             </string>
-    <string name="proverbios6">             </string>
-    <string name="proverbios7">             </string>
-    <string name="proverbios8">             </string>
-    <string name="proverbios9">             </string>
-    <string name="proverbios10">            </string>
-    <string name="proverbios11">            </string>
-    <string name="proverbios12">            </string>
-    <string name="proverbios13">            </string>
-    <string name="proverbios14">            </string>
-    <string name="proverbios15">            </string>
-    <string name="proverbios16">            </string>
-    <string name="proverbios17">            </string>
-    <string name="proverbios18">            </string>
-    <string name="proverbios19">            </string>
-    <string name="proverbios20">            </string>
-    <string name="proverbios21">            </string>
-    <string name="proverbios22">            </string>
-    <string name="proverbios23">            </string>
-    <string name="proverbios24">            </string>
-    <string name="proverbios25">            </string>
-    <string name="proverbios26">            </string>
-    <string name="proverbios27">            </string>
-    <string name="proverbios28">            </string>
-    <string name="proverbios29">            </string>
-    <string name="proverbios30">            </string>
-    <string name="proverbios31">            </string>
 
     <string name="isaias1">                 </string>
     <string name="isaias2">                 </string>
